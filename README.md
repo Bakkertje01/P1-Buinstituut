@@ -10,4 +10,4 @@ commando's github.
 
 'git pull'  Hierdoor pull je al het nieuwe naar jouw computer.
 
-![alt tag](https://tedconfblog.files.wordpress.com/2012/08/back-to-school.jpg)
+![alt tag](https://dw9to29mmj727.cloudfront.net/misc/newsletter-naruto3.png)
