@@ -11,7 +11,11 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here test
+       $a = 10;
+       
+       echo $a;
+       
+       
         ?>
     </body>
 </html>
