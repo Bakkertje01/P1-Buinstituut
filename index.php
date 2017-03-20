@@ -8,16 +8,98 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <link rel="stylesheet" type="text/css" href="style.css">
+        <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
         <title></title>
     </head>
     <body>
-        <div class = container>
+        <div class = "website">
+
+            <div class = "header">
+                <div class="header_content">
+
+                    <div class="header_img">
+                        <img src="images/header.png" alt="logo-header.png">
+
+                    </div>
+                    <div class="top_opleiding">
+                        <img src="images/topopleiding.png" alt="topopleiding.png">
+
+                    </div>
+                    <div><p class="header_title">BU Instituut</p></div>
+                    <div><p class="subheader">Voor Sport en Muziek</p></div>
+
+                </div>
+            </div>
+
+            <div class = "navbar">
+                <div class = "menu">
+                    <ul>
+                        <li>
+                            <a href="index.php" target="_self">Home</a>
+                        </li>
+                        <li>
+                            <a href="Opleidingen.php" target="_self">Opleidingen</a>
+                        </li>
+                        <li>
+                            <a href="media.php" target="_self">Media</a>
+                        </li>
+                        <li>
+
+                            <a href="contact.php" target="_self">Contact</a>
+                        </li>
+                        <li>
+
+                            <a href=".php" target="_self">Pagina</a>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li1>
+                            <a href="index.php" target="_self">Click here for English</a>
+                        </li1>
+                    </ul>
+                </div></div>
+
+            <div class = "container">
+                <div class = "blok_linksboven"><h1>Sport</h1>
+                </div>
+                <div class = "blok_rechtsboven"><h1>Muziek</h1>
+                </div>
+                <div class = "blok_onder"><p>Lorem Ipsum......</p>
+                </div>
+
+            </div>
+
+
+            <div class = "footer">
+                <div class ="footer_content">
+
+                    <div class ="social_blok">
+                        <a href="https://www.facebook.com/">
+                            <div class ="social_plaatje">
+                                <img src="images/facebook.png" alt="logo-header.png">
+                            </div>
+
+                        </a>
+                    </div>
+                    <div class ="social_blok">
+                        <a href="https://www.twitter.com">
+                        <div class ="social_plaatje">
+                            <img src="images/twitter.png" alt="logo-header.png">
+                            </a>
+                        </div>
+
+                    </div>
+                    <div class ="social_blok">
+                        <a href="contact.php" target="_self">
+                        <div class ="social_plaatje">
+                            <img src="images/mail.png" alt="logo-header.png">
+                            </a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
         </div>
-        <?php
-       $a = 10;
-       
-       echo $a;
-       
-        ?>
     </body>
 </html>
