@@ -9,3 +9,5 @@ commando's github.
 'git push'  dan push je naar de server zodat iedereen het op kan roepen die in de groep zit
 
 'git pull'  Hierdoor pull je al het nieuwe naar jouw computer.
+
+![alt tag](https://tedconfblog.files.wordpress.com/2012/08/back-to-school.jpg)
