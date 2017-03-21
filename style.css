@@ -40,7 +40,7 @@ body{
     color: white;
     width:50%;
     height: 100%;
-    background-color: ;
+
 }
 .header img{
     height: 110px;
@@ -48,20 +48,20 @@ body{
     float: left;
     margin-left: 1%;
     margin-top: 1%;
-    background-color: ;
+
 }
 p.header_title{
     font-size: 54px;
     font-weight: bold;
     padding-left: 17%;
     padding-top: 4%;
-    background-color: ;
+
     width:40%;
 }
 p.subheader{
     font-size: 18px;
     padding-left: 27%;
-    background-color: ;
+
     width:30%;
 }
 .top_opleiding img{
@@ -70,7 +70,6 @@ p.subheader{
     float: right;
     margin-right: 20%;
     margin-top: 3%;
-    background-color:;
 }
 /*menu*/
 
@@ -87,7 +86,7 @@ width:50%;
 li{
 float: left;
     list-style-type: none;
-    background-color: ;
+
 }
 li a.active {
     background-color: #30C4E9;
@@ -108,7 +107,7 @@ li a:hover {
 li1{
     float: right;
     list-style-type: none;
-    background-color: ;
+
 }
 li1 a.active {
     background-color: #30C4E9;
@@ -183,7 +182,7 @@ p{
     margin-left: 25%;
     margin-top: 1%;
     color: white;
-    background-color:;
+
 }
 .social_blok{
     margin-top: 10px;
@@ -191,7 +190,7 @@ p{
     width: 5.5%;
     height: 75%;
     float: left;
-    background-color:;
+
 }
 .social_plaatje img{
     width: 50px;
