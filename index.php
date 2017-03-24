@@ -64,7 +64,7 @@ and open the template in the editor.
                 </div>
                 <div class = "blok_rechtsboven"><h1>Muziek</h1>
                 </div>
-                <div class = "blok_onder"><p>Lorem Ipsum......</p>
+                <div class = "blok_onder"><p>Lorem Ipsum......test</p>
                 </div>
 
             </div>
