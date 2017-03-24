@@ -17,9 +17,9 @@ and open the template in the editor.
     
 }
 body{
-    background-image: url(images/Emmen_header.jpg);
+    /*background-image: url(images/Emmen_header.jpg);*/
      background-size: cover;
-    background-color: white;
+    background-color: lightblue;
 }
 .website{
     width:100%;
@@ -55,13 +55,11 @@ p.header_title{
     font-weight: bold;
     padding-left: 17%;
     padding-top: 4%;
-
     width:40%;
 }
 p.subheader{
     font-size: 18px;
     padding-left: 27%;
-
     width:30%;
 }
 .top_opleiding img{
@@ -348,3 +346,4 @@ p{
     margin-top: 1.5%;
     margin-left: 1.5%;
 }
+

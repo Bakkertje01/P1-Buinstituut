@@ -8,6 +8,7 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" type="text/css" media="screen" href="mobile.css">
         <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
         <title></title>
     </head>
@@ -51,10 +52,9 @@ and open the template in the editor.
 
                             <a href=".php" target="_self">Pagina</a>
                         </li>
-                    </ul>
-                    <ul>
+                    
                         <li1>
-                            <a href="index.php" target="_self">Click here for English</a>
+                                <a href="index.php" target="_self">English</a>
                         </li1>
                     </ul>
                 </div></div>
