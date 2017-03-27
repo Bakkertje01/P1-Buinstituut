@@ -67,16 +67,14 @@ and open the template in the editor.
                     <form action="foto_upload.php" method="POST">
                         <p>username:   <input type="text" name="username"/></p>
                         <p>password:   <input type="password" name="password"/></p>
-                        <p><input type="submit" value="Login!"/></p>
+                        <p><input type="submit" value="Login"/></p>
                     </form>
                 </div>
-
             </div>
 
 
             <div class = "footer">
                 <div class ="footer_content">
-
                     <div class ="social_blok">
                         <a href="https://www.facebook.com/">
                             <div class ="social_plaatje">
