@@ -14,229 +14,67 @@ and open the template in the editor.
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    
 }
 body{
     /*background-image: url(images/Emmen_header.jpg);*/
      background-size: cover;
     background-color: lightblue;
 }
-.website{
-    width:100%;
-    height: 100%;
-    
-   
-}
+
 /*HEADER*/
 .header{
-    width:100%;
+    width: 1903px;
     height:150px;
     background-color:rgba(0, 0, 0, 0.6); 
     margin:0 auto;
-    
 }
 .header_content{
-    margin-left: 25%;
     color: white;
-    width:50%;
-    height: 100%;    
-
+    width: 937px;
+    height:150px;   
+	margin:0 auto;
+	
 }
 .header img{
     height: 110px;
     width: 134px;
     float: left;
-    margin-left: 1%;
-    margin-top: 1%;
-
+    margin-left: 5px;
+    margin-top: 5px;
 }
 p.header_title{
     font-size: 54px;
     font-weight: bold;
-    padding-left: 17%;
-    padding-top: 4%;
-    width:40%;
+    padding-left: 150px;
+    padding-top: 30px;
 }
 p.subheader{
     font-size: 18px;
-    padding-left: 27%;
-    width:30%;
+    padding-left: 190px;
 }
 .top_opleiding img{
     height: 110px;
     width: 110px;
     float: right;
-    margin-right: 20%;
-    margin-top: 3%;
+    margin-right: 150px;
+    margin-top: 15px;
 }
 /*menu*/
 
 .navbar{
-    width:100%;
-    height:50px;
-    margin:0 auto;
-    background-color:rgba(0, 0, 0, 0.6); 
-}
-.menu{
-margin-left: 25%;
-width:50%;
-}
-li{
-float: left;
-    list-style-type: none;
-
-}
-li a.active {
-    background-color: #30C4E9;
-    color: white;
-}
-
-li a{
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 16px 16px;
-    text-decoration: none;
-}
-li a:hover {
-    color: #30C4E9;
-    background-color: lightgrey;
-}
-li1{
-    float: right;
-    list-style-type: none;
-
-}
-li1 a.active {
-    background-color: #30C4E9;
-    color: white;
-}
-
-li1 a{
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 16px 16px;
-    text-decoration: none;
-}
-li1 a:hover {
-    color: #30C4E9;
-    background-color: lightgrey;
-}
-.container{
-    width:50%;
-    height:800px;
-    margin:0 auto;
-    background-color:rgba(0, 0, 0, 0.6); 
-    margin-top: 20px;
-    margin-bottom: 20px;
-
-}
-.blok_linksboven{
-    width: 48%;
-    height: 10%;
-    margin: 1%;
-    background-color: rgba(0, 102, 204, 0.6);
-    float: left;
-}
-.blok_boven{
-    width: 98%;
-    height: 10%;
-    margin: 1%;
-    background-color: rgba(0, 102, 204, 0.6);
-    float: left;
-}
-.blok_rechtsboven{
-    width: 48%;
-    height: 10%;
-    margin: 1%;
-    background-color: rgba(0, 102, 204, 0.6);
-    float: right;
-}
-h1{
-    color: white;
-    text-align: center;
-    padding-top: 2.5%;
-}
-p{
-    color: white;
-}
-.blok_onder{
-    width: 98%;
-    height: 85%;
-    margin: 1%;
-    background-color: rgba(0, 102, 204, 0.6);
-    float: left;
-}
-.footer{
-    width:100%;
-    height:75px;
-    background-color:rgba(0, 0, 0, 0.6); 
-    margin:0 auto;
-}
-.footer_content{
-    width:50%;
-    height:100%;
-    margin-left: 25%;
-    margin-top: 1%;
-    color: white;
-
-}
-.social_blok{
-    margin-top: 10px;
-    margin-left: 1%;
-    width: 5.5%;
-    height: 75%;
-    float: left;
-
-}
-.social_plaatje img{
-    width: 50px;
+    width: 1903px;
     height: 50px;
-    margin-top: 1.5%;
-    margin-left: 1.5%;
-}
-.header img{
-    height: 110px;
-    width: 134px;
-    float: left;
-    margin-left: 1%;
-    margin-top: 1%;
-}
-p.header_title{
-    font-size: 54px;
-    font-weight: bold;
-    padding-left: 17%;
-    padding-top: 4%;
-    width:40%;
-}
-p.subheader{
-    font-size: 18px;
-    padding-left: 27%;
-    width:30%;
-}
-.top_opleiding img{
-    height: 110px;
-    width: 110px;
-    float: right;
-    margin-right: 20%;
-    margin-top: 3%;
-}
-/*menu*/
-
-.navbar{
-    width:100%;
-    height:50px;
-    margin:0 auto;
+    margin: 0 auto;
     background-color:rgba(0, 0, 0, 0.6); 
 }
 .menu{
-margin-left: 25%;
-width:50%;
+	width: 937px;
+	margin: 0 auto;
 }
 li{
-float: left;
+	float: left;
     list-style-type: none;
+
 }
 li a.active {
     background-color: #30C4E9;
@@ -257,6 +95,7 @@ li a:hover {
 li1{
     float: right;
     list-style-type: none;
+
 }
 li1 a.active {
     background-color: #30C4E9;
@@ -274,76 +113,78 @@ li1 a:hover {
     color: #30C4E9;
     background-color: lightgrey;
 }
+/*inhoud*/
 .container{
-    width:50%;
+	width: 937px;
     height:800px;
     margin:0 auto;
     background-color:rgba(0, 0, 0, 0.6); 
     margin-top: 20px;
     margin-bottom: 20px;
-
 }
 .blok_linksboven{
-    width: 48%;
-    height: 10%;
-    margin: 1%;
+   width: 455px;
+    height: 75px;
+   margin: 6px;
+    background-color: rgba(0, 102, 204, 0.6);
+    float: left;
+}
+
+.blok_rechtsboven{
+    width: 455px;
+    height: 75px;
+	margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
 }
 .blok_boven{
-    width: 98%;
-    height: 10%;
-    margin: 1%;
+    width: 920px;
+    height: 75px;
+    margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
 }
-.blok_rechtsboven{
-    width: 48%;
-    height: 10%;
-    margin: 1%;
+.blok_onder{
+    width: 920px;
+    height: 700px;
+    margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
-    float: right;
+    float: left;
 }
 h1{
     color: white;
     text-align: center;
-    padding-top: 2.5%;
+    padding-top: 15px;
 }
 p{
     color: white;
 }
-.blok_onder{
-    width: 98%;
-    height: 85%;
-    margin: 1%;
-    background-color: rgba(0, 102, 204, 0.6);
-    float: left;
-}
+
 /*FOOTER*/
 .footer{
-    width:100%;
+    width: 1903px;
     height:75px;
     background-color:rgba(0, 0, 0, 0.6); 
     margin:0 auto;
 }
 .footer_content{
-    width:50%;
-    height:100%;
-    margin-left: 25%;
-    margin-top: 1%;
+    width: 937px;
+    height: 75px;
+    margin:0 auto;
+    margin-top: 5px;
     color: white;
 }
 .social_blok{
-    margin-top: 10px;
-    margin-left: 1%;
-    width: 5.5%;
-    height: 75%;
+    margin-top: 5px;
+    margin-left: 5px;
+    width: 50px;
+    height: 50px;
     float: left;
 }
 .social_plaatje img{
     width: 50px;
     height: 50px;
-    margin-top: 1.5%;
-    margin-left: 1.5%;
+    margin-top: 5px;
+	float: left;
 }
 
