@@ -50,7 +50,7 @@ and open the template in the editor.
                         </li>
                         <li>
 
-                            <a href=".php" target="_self">Pagina</a>
+                            <a href="login_pagina.php" target="_self">login</a>
                         </li>
                     
                         <li1>
