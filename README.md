@@ -11,3 +11,5 @@ commando's github.
 'git pull'  Hierdoor pull je al het nieuwe naar jouw computer.
 
 ![alt tag](https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif)
+![alt tag](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![alt tag](http://i.imgur.com/VhlQK.gif)
