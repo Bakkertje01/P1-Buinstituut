@@ -1,3 +1,8 @@
+<?php
+$username = "admin";
+$password = "password"; 
+?>
+
 <!DOCTYPE html>
 <!--
 To change this license header, choose License Headers in Project Properties.
@@ -64,11 +69,17 @@ and open the template in the editor.
                 </div>
 
                 <div class = "blok_onder">
-                    <form action="foto_upload.php" method="POST">
-                        <p>username:   <input type="text" name="username"/></p>
-                        <p>password:   <input type="password" name="password"/></p>
-                        <p><input type="submit" value="Login!"/></p>
-                    </form>
+                    <?php
+                    if (isset($_POST['username'], $_POST['password'])) {
+                        if ($_POST['username'] == $username && $_POST['password'] == $password) {
+                            echo "Welkom";
+                        } else {
+                            echo "Vul het juiste wachtwoord of gebruikersnaam in";
+                        }
+                    } else {
+                        echo "geen input";
+                    }
+                    ?>
                 </div>
 
             </div>
