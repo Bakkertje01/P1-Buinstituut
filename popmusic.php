@@ -31,9 +31,9 @@
                     <p>De duur van de opleiding bedraagt 4 jaar.</p>
                     <h2>Vooropleidingseisen:</h2>
                     <ul>
-                        <li><p>Diploma vmbo: kaderberoepsgerichte, gemengde of theoretische leerweg</p></li>
-                        <li><p>Of een diploma op mbo-niveau 3 of vergelijkbaar</p></li>
-                        <li><p>Of een overgangsbewijs van havo of vwo 3 naar 4</p></li>
+                        <li>Diploma vmbo: kaderberoepsgerichte, gemengde of theoretische leerweg</li>
+                        <li>Of een diploma op mbo-niveau 3 of vergelijkbaar</li>
+                        <li>Of een overgangsbewijs van havo of vwo 3 naar 4</li>
                     </ul>
                     <h2>Selectie/auditie</h2>
                     <ul>
