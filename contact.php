@@ -33,38 +33,39 @@ and open the template in the editor.
             </div>
 
             <div class = "navbar">
-                <div class = "menu">
-                    <ul>
-                        <li>
-                            <a href="index.php" target="_self">Home</a>
-                        </li>
-                        <li>
-                            <a href="Opleidingen.php" target="_self">Opleidingen</a>
-                        </li>
-                        <li>
-                            <a href="media.php" target="_self">Media</a>
-                        </li>
-                        <li>
+                <ul>
+                    <li>
+                        <a href="index.php" target="_self">Home</a>
+                    </li>
+                    <li>
+                        <a href="Opleidingen.php" target="_self">Opleidingen</a>
+                    </li>
+                    <li>
+                        <a href="media.php" target="_self">Media</a>
+                    </li>
+                    <li>
+                        <a href="contact.php" target="_self">Contact</a>
+                    </li>
+                    <li>
 
-                            <a href="contact.php" target="_self">Contact</a>
-                        </li>
-                        <li>
-
-                            <a href="login_pagina.php" target="_self">login</a>
-                        </li>
-                    
-                        <li1>
-                                <a href="index.php" target="_self">English</a>
-                        </li1>
-                    </ul>
-                </div></div>
+                        <a href="login_pagina.php" target="_self">login</a>
+                    </li>
+                    <li>
+                        <a href="index.php" target="_self">English</a>
+                    </li>
+                </ul>
+            </div>
 
             <div class = "container">
                 <div class = "blok_boven"><h1>Contact</h1>
                 </div>
                 
-                <div class = "blok_onder"><p>Lorem Ipsum......test</p>
-                </div>
+                <div class = "blok_onder">
+                    <?php
+                    include 'html-php-form-send-email.php';
+                    ?>
+
+                </div>f
 
             </div>
 
