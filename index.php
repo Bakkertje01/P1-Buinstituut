@@ -10,7 +10,8 @@ and open the template in the editor.
         <link rel="stylesheet" type="text/css" href="style.css">
         <link rel="stylesheet" type="text/css" media="screen" href="mobile.css">
         <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-        <title></title>
+		<meta name "viewport" content="width=device-width, initial-scale=1">
+        <title>Home</title>
     </head>
     <body>
         <div class = "website">
@@ -33,7 +34,7 @@ and open the template in the editor.
             </div>
 
             <div class = "navbar">
-                <div class = "menu">
+                
                     <ul>
                         <li>
                             <a href="index.php" target="_self">Home</a>
@@ -50,22 +51,23 @@ and open the template in the editor.
                         </li>
                         <li>
 
-                            <a href="login_pagina.php" target="_self">login</a>
+                          <a href="login_pagina.php" target="_self">login</a>
                         </li>
                     
-                        <li1>
+                        <li>
                                 <a href="index.php" target="_self">English</a>
-                        </li1>
+                        </li>
                     </ul>
-                </div></div>
+                </div>
 
             <div class = "container">
-                <div class = "blok_linksboven"><h1>Sport</h1>
+             <div class = "blok_linksboven"><h1>Sport</h1>
                 </div>
                 <div class = "blok_rechtsboven"><h1>Muziek</h1>
                 </div>
                 <div class = "blok_onder"><p>Lorem Ipsum......test</p>
                 </div>
+				
 
             </div>
 
