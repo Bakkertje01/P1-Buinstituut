@@ -5,7 +5,7 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <link rel="stylesheet" type="text/css" media="screen" href="mobile.css">
         <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-        <title></title>
+        <title>Pop muziek</title>
     </head>
     <body>
         <div class="website">
