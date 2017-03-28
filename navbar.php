@@ -7,25 +7,25 @@
  */
 ?>
 <div class = "navbar">
-    <ul>
-        <li>
+    <ul class = "header_ul">
+        <li1>
             <a href="index.php" target="_self">Home</a>
-        </li>
-        <li>
+        </li1>
+        <li1>
             <a href="Opleidingen.php" target="_self">Opleidingen</a>
-        </li>
-        <li>
+        </li1>
+        <li1>
             <a href="media.php" target="_self">Media</a>
-        </li>
-        <li>
+        </li1>
+        <li1>
             <a href="contact.php" target="_self">Contact</a>
-        </li>
-        <li>
+        </li1>
+        <li1>
 
             <a href="login_pagina.php" target="_self">login</a>
-        </li>
-        <li>
+        </li1>
+        <li1>
             <a href="index.php" target="_self">English</a>
-        </li>
+        </li1>
     </ul>
 </div>

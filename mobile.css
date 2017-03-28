@@ -109,7 +109,7 @@ and open the template in the editor.
 }
 
 @media screen and (max-width: 980px) {
-ul{
+ul1{
     float: left;
     list-style-type: none;
     height: 66px;
@@ -117,18 +117,18 @@ width:100%;
 }
 }
 @media screen and (max-width: 980px) {
-li{
+li1{
     list-style-type: none;
 }
 }
 @media screen and (max-width: 980px) {
-li a.active {
+li1 a.active {
     background-color: #30C4E9;
     color: white;
 }
 }
 @media screen and (max-width: 980px) {
-li a{
+li1 a{
     display: block;
     color: white;
     text-align: center;
@@ -136,7 +136,7 @@ li a{
 }
 }
 @media screen and (max-width: 980px) {
-li a:hover {
+li1 a:hover {
     color: #30C4E9;
     background-color: lightgrey;
 }

@@ -66,28 +66,28 @@ p.subheader{
     background-color:rgba(0, 0, 0, 0.6); 
     margin: 0 auto;
 }
-ul{
+ul.header_ul{
     width: 937px;
     margin: 0 auto;
 }
-li{
+li1{
     float: left;
     list-style-type: none;
     color: white;
 }
-li a.active {
+li1 a.active {
     background-color: #30C4E9;
     color: white;
 }
 
-li a{
+li1 a{
     display: block;
     color: white;
     text-align: center;
     padding: 16px 16px;
     text-decoration: none;
 }
-li a:hover {
+li1 a:hover {
     color: #30C4E9;
     background-color: lightgrey;
 }
