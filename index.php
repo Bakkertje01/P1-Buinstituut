@@ -28,7 +28,13 @@ and open the template in the editor.
                 </div></a>
                 <a href="musicpage.php"><div class = "blok_rechtsboven"><h1>Muziek</h1>
                 </div></a>
-                <div class = "blok_onder"><p>Lorem Ipsum......test</p>
+                <div class = "blok_onder">
+                    <a href="https://www.accuweather.com/nl/nl/hoogeveen/247260/weather-forecast/247260" class="aw-widget-legal">
+                        <!--
+						By accessing and/or using this code snippet, you agree to AccuWeather’s terms and conditions (in English) which can be found at https://www.accuweather.com/en/free-weather-widgets/terms and AccuWeather’s Privacy Statement (in English) which can be found at https://www.accuweather.com/en/privacy.
+						-->
+                    </a><div id="awcc1490706727331" class="aw-widget-current"  data-locationkey="247260" data-unit="c" data-language="nl" data-useip="false" data-uid="awcc1490706727331"></div><script type="text/javascript" src="https://oap.accuweather.com/launch.js"></script>
+
                 </div>
 
             </div>
