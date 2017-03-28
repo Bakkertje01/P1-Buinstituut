@@ -53,9 +53,9 @@ and open the template in the editor.
                             <a href="login_pagina.php" target="_self">login</a>
                         </li>
 
-                        <li1>
+                        <li>
                             <a href="index.php" target="_self">English</a>
-                        </li1>
+                        </li>
                     </ul>
                 </div></div>
 
