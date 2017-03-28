@@ -7,6 +7,7 @@
        
 
         <?php
+
         if($_POST[submit]){
             $emailcontct="n2470407@mvrht.com"; //vul email die info moet ontvangen
             $naamsend=$_POST["naam"];
@@ -18,10 +19,7 @@
             
         }
             
-        
-        
-        
-    
+
         ?>
 
 
