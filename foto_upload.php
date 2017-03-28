@@ -21,37 +21,43 @@ and open the template in the editor.
         <div class = "website">
 
             <?php
-            include "header.php";
-            ?>
+			include "header.php";
+			?>
 
-            <?php
-            include "navbar.php";
-            ?>
+			<?php
+			include "navbar.php";
+			?>
 
             <div class = "container">
                 <div class = "blok_boven"><h1>Log in pagina</h1>
                 </div>
 
                 <div class = "blok_onder">
+					<?php
+					if (isset($_POST['username'], $_POST['password'])) {
+						if ($_POST['username'] == $username && $_POST['password'] == $password) {
+							?>
+                            <form action="uploadtest.php" method="post" enctype="multipart/form-data">
+                                Select image to upload:
+                                <input type="file" name="fileToUpload" id="fileToUpload">
+                                <input type="submit" value="Upload Image" name="submit">
+                            </form>;
                     <?php
-                    if (isset($_POST['username'], $_POST['password'])) {
-                        if ($_POST['username'] == $username && $_POST['password'] == $password) {
-                            echo "Welkom";
-                        } else {
-                            echo "Vul het juiste wachtwoord of gebruikersnaam in";
-                        }
-                    } else {
-                        echo "geen input";
-                    }
-                    ?>
+						} else {
+							echo "Vul het juiste wachtwoord of gebruikersnaam in";
+						}
+					} else {
+						echo "geen input";
+					}
+					?>
                 </div>
 
             </div>
 
 
-            <?php
-            include "footer.php";
-            ?>
+			<?php
+			include "footer.php";
+			?>
 
         </div>
     </body>
