@@ -19,7 +19,7 @@
             ?>
 
             <div class = "container">
-                <a href= "pop_page.php"><div class = "blok_linksboven"><h1>Pop</h1>
+                <a href= "popmusic.php"><div class = "blok_linksboven"><h1>Pop</h1>
                 </div></a>
                 <a href= "klassiek_page.php"><div class = "blok_rechtsboven"><h1>Klassiek</h1>
                 </div></a>
