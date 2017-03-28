@@ -164,3 +164,13 @@ p{
     float: left;
 }
 
+.media_photo{
+    margin: 5px;
+    height: 200px;
+    float: left;
+}
+
+img.photoMedia{
+    max-width: 200px;
+    max-height: 200px;
+}
