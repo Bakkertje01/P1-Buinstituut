@@ -62,7 +62,7 @@ and open the template in the editor.
                 
                 <div class = "blok_onder">
                     <?php
-                    include 'html-php-form-send-email.php';
+                    include 'phpsend.php';
                     ?>
 
                 </div>f

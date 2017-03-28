@@ -64,8 +64,8 @@ and open the template in the editor.
 			<?php
 			foreach (glob("images/uploads/*") as $file) {
 				echo "<div class='media_photo'>
-                                    <a href='$file'><img class='photoMedia' alt='$file' src='$file'></a>
-                              </div>";
+                           <a href='$file'><img class='photoMedia' alt='$file' src='$file'></a>
+                      </div>";
 			}
 			?>
         </div>
