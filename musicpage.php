@@ -47,17 +47,17 @@
                             <a href=".php" target="_self">Pagina</a>
                         </li>
                     
-                        <li1>
+                        <li>
                                 <a href="index.php" target="_self">English</a>
-                        </li1>
+                        </li>
                     </ul>
                 </div></div>
 
             <div class = "container">
-                <div class = "blok_linksboven"><h1>Pop</h1>
-                </div>
-                <div class = "blok_rechtsboven"><h1>Klassiek</h1>
-                </div>
+                <a href= "pop_page.php"><div class = "blok_linksboven"><h1>Pop</h1>
+                </div></a>
+                <a href= "klassiek_page"><div class = "blok_rechtsboven"><h1>Klassiek</h1>
+                </div></a>
                 <div class = "blok_onder">
                     <p>Het Beth Underhill Instituut is in korte tijd uitgegroeid tot een internationaal gerespecteerde Hogeschool voor haar muzikale opleidingen in de richtingen pop en klassiek. 
                        Onze missie is het opleiden van musici die het verschil maken in de muziekwereld.

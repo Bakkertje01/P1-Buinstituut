@@ -58,10 +58,10 @@ and open the template in the editor.
                 </div>
 
             <div class = "container">
-             <div class = "blok_linksboven"><h1>Sport</h1>
-                </div>
-                <div class = "blok_rechtsboven"><h1>Muziek</h1>
-                </div>
+                <a href="sportpage.php"><div class = "blok_linksboven"><h1>Sport</h1>
+                </div></a>
+                <a href="musicpage.php"><div class = "blok_rechtsboven"><h1>Muziek</h1>
+                </div></a>
                 <div class = "blok_onder"><p>Lorem Ipsum......test</p>
                 </div>
 				
