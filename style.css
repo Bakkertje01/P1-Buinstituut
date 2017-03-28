@@ -73,6 +73,7 @@ ul{
 li{
     float: left;
     list-style-type: none;
+    color: white;
 }
 li a.active {
     background-color: #30C4E9;
@@ -152,6 +153,10 @@ h1{
     color: white;
     text-align: center;
     padding-top: 15px;
+}
+h2{
+    color: white;
+    padding-top: 10px;
 }
 p{
     color: white;
