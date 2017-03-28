@@ -143,8 +143,9 @@ li1 a:hover {
     float: left;
     padding: 6px;
 }
-.li{
-    padding-left: 10px
+.ul{
+    list-style-type: circle;
+    padding-left: 10px;
 }
 .blok_onder_opleidingen{
     width: 920px;
