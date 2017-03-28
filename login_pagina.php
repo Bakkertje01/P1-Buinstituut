@@ -10,8 +10,7 @@ and open the template in the editor.
         <link rel="stylesheet" type="text/css" href="style.css">
         <link rel="stylesheet" type="text/css" media="screen" href="mobile.css">
         <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-		<meta name "viewport" content="width=device-width, initial-scale=1">
-        <title>Home</title>
+        <title></title>
     </head>
     <body>
         <div class = "website">
@@ -34,7 +33,7 @@ and open the template in the editor.
             </div>
 
             <div class = "navbar">
-                
+                <div class = "menu">
                     <ul>
                         <li>
                             <a href="index.php" target="_self">Home</a>
@@ -51,30 +50,31 @@ and open the template in the editor.
                         </li>
                         <li>
 
-                          <a href="login_pagina.php" target="_self">login</a>
+                            <a href="login_pagina.php" target="_self">login</a>
                         </li>
-                    
-                        <li>
-                                <a href="index.php" target="_self">English</a>
-                        </li>
+
+                        <li1>
+                            <a href="index.php" target="_self">English</a>
+                        </li1>
                     </ul>
-                </div>
+                </div></div>
 
             <div class = "container">
-             <div class = "blok_linksboven"><h1>Sport</h1>
+                <div class = "blok_boven"><h1>Log in pagina</h1>
                 </div>
-                <div class = "blok_rechtsboven"><h1>Muziek</h1>
-                </div>
-                <div class = "blok_onder"><p>Lorem Ipsum......test</p>
-                </div>
-				
 
+                <div class = "blok_onder">
+                    <form action="foto_upload.php" method="POST">
+                        <p>username:   <input type="text" name="username"/></p>
+                        <p>password:   <input type="password" name="password"/></p>
+                        <p><input type="submit" value="Login"/></p>
+                    </form>
+                </div>
             </div>
 
 
             <div class = "footer">
                 <div class ="footer_content">
-
                     <div class ="social_blok">
                         <a href="https://www.facebook.com/">
                             <div class ="social_plaatje">
@@ -85,18 +85,18 @@ and open the template in the editor.
                     </div>
                     <div class ="social_blok">
                         <a href="https://www.twitter.com">
-                        <div class ="social_plaatje">
-                            <img src="images/twitter.png" alt="logo-header.png">
-                            </a>
-                        </div>
+                            <div class ="social_plaatje">
+                                <img src="images/twitter.png" alt="logo-header.png">
+                                </a>
+                            </div>
 
                     </div>
                     <div class ="social_blok">
                         <a href="contact.php" target="_self">
-                        <div class ="social_plaatje">
-                            <img src="images/mail.png" alt="logo-header.png">
-                            </a>
-                        </div>
+                            <div class ="social_plaatje">
+                                <img src="images/mail.png" alt="logo-header.png">
+                                </a>
+                            </div>
 
                     </div>
                 </div>

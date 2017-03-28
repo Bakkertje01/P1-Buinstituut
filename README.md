@@ -10,4 +10,5 @@ commando's github.
 
 'git pull'  Hierdoor pull je al het nieuwe naar jouw computer.
 
-![alt tag](https://dw9to29mmj727.cloudfront.net/misc/newsletter-naruto3.png)
+![alt tag](https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif)
+![alt tag](http://i.imgur.com/VhlQK.gif)
