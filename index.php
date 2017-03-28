@@ -28,7 +28,8 @@ and open the template in the editor.
                 </div></a>
                 <a href="musicpage.php"><div class = "blok_rechtsboven"><h1>Muziek</h1>
                 </div></a>
-                <div class = "blok_onder"><p>Lorem Ipsum......test</p>
+                <div class = "blok_onder">
+
                 </div>
 
             </div>
