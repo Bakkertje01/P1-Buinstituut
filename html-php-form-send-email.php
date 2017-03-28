@@ -20,6 +20,7 @@
         
 
         <?php
+
         if($_POST[submit]){
             $emailcontct="1234@hotmail.com"; //vul email die info moet ontvangen
             $naamsend=$_POST["naam"];
@@ -31,10 +32,7 @@
             
         }
             
-        
-        
-        
-    
+
         ?>
 
 
