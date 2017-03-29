@@ -12,18 +12,20 @@
             
         }
 		?>
-            <div class="Cform">
-                <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
-                Naam:<br><input type="text" name="naam" placeholder="vul&nbsp;in&nbsp;naam">
-                <br>
-                achternaam:<br><input type="text" name="achternaam" placeholder="vul&nbsp;in&nbsp;achternaam">
-                <br>
-                e-mail:<br><input type="text" name="e-mail" placeholder="vul&nbsp;in&nbsp;email">
-                <br>
-                comment:<br><input type="text" name="comment" placeholder="vul&nbsp;in&nbsp;comment">
-                <br>
-                <input type="submit" name="submit">
-                <input type="reset" name="reset">
+            <div class="blok_onder">
+                <div class="Cform">
+                    <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
+                    Naam:<br><input type="text" name="naam" placeholder="vul&nbsp;in&nbsp;naam">
+                    <br>
+                    achternaam:<br><input type="text" name="achternaam" placeholder="vul&nbsp;in&nbsp;achternaam">
+                    <br>
+                    e-mail:<br><input type="text" name="e-mail" placeholder="vul&nbsp;in&nbsp;email">
+                    <br>
+                    comment:<br><input type="text" name="comment" placeholder="vul&nbsp;in&nbsp;comment">
+                    <br>
+                    <input type="submit" name="submit">
+                    <input type="reset" name="reset">
+                </div>
             </div>
             
             
