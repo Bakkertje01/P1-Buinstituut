@@ -74,10 +74,6 @@ ul.header_ul li{
     list-style-type: none;
     color: white;
 }
-ul.header_ul li a.active {
-    background-color: #30C4E9;
-    color: white;
-}
 
 ul.header_ul li a{
     display: block;
@@ -90,7 +86,10 @@ ul.header_ul li a:hover {
     color: #30C4E9;
     background-color: lightgrey;
 }
-
+ul.header_ul li a:active {
+    background-color: #30C4E9;
+    color: white;
+}
 /*inhoud*/
 .container{
     width: 937px;
