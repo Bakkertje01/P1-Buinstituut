@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class="home-bg">
 <body>
 
 <form action="upload.php" method="post" enctype="multipart/form-data">
