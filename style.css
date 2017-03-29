@@ -219,3 +219,13 @@ img.photoMedia{
 .loginPrompt input{
     margin-bottom: 10px;
 }
+
+.uploadForm{
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+}
+
+.uploadForm input{
+    margin-top: 10px;
+}
