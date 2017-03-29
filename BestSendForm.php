@@ -13,7 +13,7 @@
         }
 		?>
             <div class="contactinfo">
-                <p>hierop kun je je contact informatie op achterlaten of om vragen te stellen.
+                <p>Hierop kun je je contact informatie op achterlaten of om vragen te stellen.
                 Wij zullen proberen om zo snel mogelijk te antwoorden.</p>
                 </div>
                 <div class="Cform">
