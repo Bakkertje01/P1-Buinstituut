@@ -34,6 +34,7 @@ and open the template in the editor.
                             <p><label for="password">Wachtwoord: </label><input type="password" id="password" name="password"/></p>
                             <p><input type="submit" value="Inloggen"/></p>
                         </form>
+                        <img src="images/login.png" alt="loginImage">
                     </div>
                 </div>
             </div>
