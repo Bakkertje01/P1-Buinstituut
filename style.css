@@ -91,6 +91,7 @@ li1 a:hover {
     color: #30C4E9;
     background-color: lightgrey;
 }
+
 /*inhoud*/
 .container{
     width: 937px;
@@ -171,38 +172,37 @@ p{
 /*FOOTER*/
 .footer{
     width: 100%;
-    height:75px;
-    background-color:rgba(0, 0, 0, 0.6); 
-    margin:0 auto;
+    height:100%;
+    background-color:rgba(0, 0, 0, 0.6);
 }
 .footer_content{
     width: 937px;
-    height: 75px;
+    height: 150px;
     margin:0 auto;
     margin-top: 5px;
     color: white;
 }
-.social_blok{
-    margin-top: 5px;
-    margin-left: 5px;
-    width: 50px;
-    height: 50px;
-    float: left;
-}
 .social_plaatje img{
     width: 50px;
     height: 50px;
-    margin-top: 5px;
+    margin-top: 20px;
     float: left;
+    margin-left: 10px;
 }
-
 .media_photo{
     margin: 5px;
     height: 200px;
     float: left;
 }
-
 img.photoMedia{
     max-width: 200px;
     max-height: 200px;
+}
+.weer {
+    float: right;
+    margin-top: 20px;
+}
+.rss{
+    float: right;
+
 }

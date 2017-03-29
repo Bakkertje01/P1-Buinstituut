@@ -86,6 +86,11 @@ and open the template in the editor.
     }
 }
 @media screen and (max-width: 980px) {
+    .weer {
+        display:none;
+    }
+}
+@media screen and (max-width: 980px) {
     p.header_title {
         color: white;
         font-size: 14px;
