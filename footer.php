@@ -32,7 +32,7 @@
             </a>
         </div>
         <div class="rss">
-        <iframe width="400" height="400" style="border:none;" src="http://output86.rssinclude.com/output?type=iframe&amp;id=1130939&amp;hash=9fe07f525858a6d88d483cde4c1db6e6"></iframe>
+        <iframe width="460" height="150" style="border:none;" src="http://output86.rssinclude.com/output?type=iframe&amp;id=1130939&amp;hash=9fe07f525858a6d88d483cde4c1db6e6"></iframe>
         </div>
 
     <div class ="weer">

@@ -177,7 +177,7 @@ p{
 }
 .footer_content{
     width: 937px;
-    height: 150px;
+    height: 154px;
     margin:0 auto;
     margin-top: 5px;
     color: white;
@@ -185,7 +185,7 @@ p{
 .social_plaatje img{
     width: 50px;
     height: 50px;
-    margin-top: 20px;
+    margin-top: 8px;
     float: left;
     margin-left: 10px;
 }
@@ -200,7 +200,7 @@ img.photoMedia{
 }
 .weer {
     float: right;
-    margin-top: 20px;
+    margin-top: 8px;
 }
 .rss{
     float: right;
