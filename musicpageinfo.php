@@ -20,7 +20,7 @@
 
             <div class = "container">
                 <div class = "blok_boven">
-                    <h1>Popmuziek - Opleidingsinformatie</h1>
+                    <h1>Klassieke muziek - Opleidingsinformatie</h1>
                 </div>
                 <div class = "blok_onder">
                     <h2>Hoofdvakken</h2>
