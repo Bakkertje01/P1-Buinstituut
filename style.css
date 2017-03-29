@@ -266,10 +266,11 @@ img.photoMedia{
 
 .Cform{
     height:200px;
-    width:300px;
-    float:left;
-    margin-left:300px;
+    width:250px;
+    margin:auto;
+    margin-top:120px;
     background-color:grey;
+    padding:50px;
 }
 
 .contactinfo{
@@ -281,4 +282,12 @@ img.photoMedia{
     padding:30px;
     
     
+}
+input[type=submit], input[type=reset]{
+    
+}
+
+textarea{
+    heigth:;
+    width:;
 }
