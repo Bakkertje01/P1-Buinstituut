@@ -47,7 +47,7 @@
                         <li>Hoe laat je merken dat je een visie hebt en doelen kunt stellen voor de toekomst?</li>
                     </ul>
 
-                    <a href = "popmusicpageopendag.php">
+                    <a href = "klassiekmusicpageopendag.php">
                         <div class="muziek_opendag">
                             <img src="images/popopendag.jpg" alt="opendag">
                         </div></a>
