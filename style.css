@@ -286,7 +286,6 @@ img.photoMedia{
 input[type=submit], input[type=reset]{
     heigth:50px;
     width:60px;
-    float:left;
     
 }
 
