@@ -255,8 +255,11 @@ img.photoMedia{
     float:left;
     background-color:red;
     
+    
 }
 
-form{
-    
+.contactinfo{
+    height:50px;
+    width:700px;
+    float:left;
 }
