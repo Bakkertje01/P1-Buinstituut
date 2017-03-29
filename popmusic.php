@@ -20,7 +20,7 @@
 
             <div class = "container">
                 <div class = "blok_boven">
-                    <h1>Popmuziek</h1>
+                    <h1>Muziek - Popmuziek</h1>
                 </div>
                 <div class = "blok_onder">
                     <p>Wanneer je voor de opleiding popmuziek kiest, zul je leren wat synthesizers zijn en hoe je deze zult gebruiken.
