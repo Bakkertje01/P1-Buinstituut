@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
     <meta charset="UTF-8">
@@ -19,11 +19,11 @@
 
         <div class = "container">
             <div class = "blok_boven">
-                <h1>Klassieke muziek - Open dag</h1>
+                <h1>Opleidingen muziek - Open dag</h1>
             </div>
             <div class = "blok_onder">
-                <p>Wil je weten of een Conservatoriumstudie iets voor jou is? Kom dan naar een van de open dagen van het Prins Claus Conservatorium.</p>
-                ​​<p>Alles wat je wilt weten over studeren aan het Prins Claus Conservatorium</p>
+                <p>Wil je weten of een conservatoriumstudie iets voor jou is? Kom dan naar een van de open dagen van het Beth Underhill Instituut.</p>
+                ​​<p>Alles wat je wilt weten over studeren aan het Beth Underhill Instituut</p>
                 <p>Zowel voor algemene voorlichting over een studie aan het conservatorium als voor meer specifieke vragen kun je op de open dagen terecht.
                 Gedurende de hele dag zijn docenten en studenten aanwezig om al je vragen te beantwoorden. Ook kun je de hele dag binnenlopen bij de hoofden van de diverse studierichtingen.
                 Natuurlijk geven we niet alleen informatie, er is ook een gevarieerd muziekprogramma met jazz en klassieke muziek.
@@ -46,6 +46,8 @@
                 <p>15.00 Voorlichting Jong Talent Klas Jazz</p>
 
                 <p><i>Wijzigingen voorbehouden</i></p>
+                <br>
+                <p class="opendag">De eerstvolgende opendag vindt plaats op 23 mei 2017.</p>
             </div>
         </div>
         </div>

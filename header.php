@@ -18,8 +18,8 @@
 
                     </div>
 
-                    <div><p class="header_title">BU Instituut</p></div>
-                    <div><p class="subheader">Voor Sport en Muziek</p></div>
+                  <div class="header_title">BU Instituut</div>
+                   <div class="subheader">Voor Sport en Muziek</div>
 
                 </div>
 </div>

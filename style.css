@@ -16,7 +16,7 @@ and open the template in the editor.
     font-family: 'Roboto', sans-serif;
 }
 body{
-    /*background-image: url(images/Emmen_header.jpg);*/
+    <!--background-image: url(images/background.jpg);-->
     background-size: cover;
     background-color: lightblue;
 }
@@ -30,9 +30,8 @@ body{
 .header_content{
     color: white;
     width: 937px;
-    height:150px;   
+    height:150px;
     margin:0 auto;
-
 }
 .header img{
     height: 110px;
@@ -41,13 +40,13 @@ body{
     margin-left: 5px;
     margin-top: 5px;
 }
-p.header_title{
+.header_title{
     font-size: 54px;
     font-weight: bold;
     padding-left: 150px;
     padding-top: 30px;
 }
-p.subheader{
+.subheader{
     font-size: 18px;
     padding-left: 190px;
 }
@@ -70,28 +69,27 @@ ul.header_ul{
     width: 937px;
     margin: 0 auto;
 }
-li1{
+ul.header_ul li{
     float: left;
     list-style-type: none;
     color: white;
 }
-li1 a.active {
-    background-color: #30C4E9;
-    color: white;
-}
 
-li1 a{
+ul.header_ul li a{
     display: block;
     color: white;
     text-align: center;
     padding: 16px 16px;
     text-decoration: none;
 }
-li1 a:hover {
+ul.header_ul li a:hover {
     color: #30C4E9;
     background-color: lightgrey;
 }
-
+ul.header_ul li a:active {
+    background-color: #30C4E9;
+    color: white;
+}
 /*inhoud*/
 .container{
     width: 937px;
@@ -102,42 +100,42 @@ li1 a:hover {
     margin-bottom: 20px;
 }
 .blok_linksboven{
-    width: 455px;
+    width: 457px;
     height: 75px;
     margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
 }
 .blok_rechtsboven{
-    width: 455px;
+    width: 456px;
     height: 75px;
     margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
 }
 .blok_boven{
-    width: 920px;
+    width: 925px;
     height: 75px;
     margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
 }
 .blok_boven_sport{
-    width: 920px;
+    width: 925px;
     height: 75px;
     margin: 6px;
     background-color: blue;
     float: left;
 }
 .blok_boven_muziek{
-    width: 920px;
+    width: 925px;
     height: 75px;
     margin: 6px;
     background-color: blue;
     float: left;
 }
 .blok_onder{
-    width: 920px;
+    width: 925px;
     height: 700px;
     margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
@@ -163,7 +161,7 @@ ul{
     color: white;
 }
 .blok_onder_opleidingen{
-    width: 920px;
+    width: 925px;
     height: 520px;
     margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
@@ -188,6 +186,11 @@ p{
     color: white;
     margin-left: 5px;
     margin-top: 6px;
+}
+p.opendag{
+    color: white;
+    font-size: 18px;
+    text-align: center;
 }
 
 /*FOOTER*/
@@ -249,17 +252,8 @@ img.photoMedia{
     margin-top: 10px;
 }
 
-.Cform{
+Cform{
     height:200px;
     width:910px;
-    float:left;
-    background-color:red;
-    
-    
-}
-
-.contactinfo{
-    height:50px;
-    width:700px;
     float:left;
 }
