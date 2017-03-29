@@ -46,6 +46,18 @@
                             Hoe ga je blijk geven van je ondernemerschap?</li>
                         <li>Hoe laat je merken dat je een visie hebt en doelen kunt stellen voor de toekomst?</li>
                     </ul>
+
+                    <a href = "popmusicpageopendag.php">
+                        <div class="muziek_opendag">
+                            <img src="images/popopendag.jpg" alt="opendag">
+                        </div></a>
+
+                    <a href = "popmusicpageinfo.php">
+                        <div class="muziek_info">
+                            <img src="images/popinfo.jpg" alt="info">
+                        </div></a>
+
+
                 </div>
             </div>
             <?php
