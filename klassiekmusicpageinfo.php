@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class="music-bg">
     <head>
         <meta charset="UTF-8">
         <link rel="stylesheet" type="text/css" href="style.css">
@@ -35,7 +35,6 @@
                     </ul>
                     <br>
                     <p>* Als je piano, orgel of klavecimbel studeert krijg je ook les op andere toetsinstrumenten zoals pianoforte en harmonium.</p>
-                    <br>
                     <h2>Propedeuse</h2>
                     <p>Het hoofdvak staat gedurende je hele studie centraal. Het eerste jaar is vooral oriënterend van aard.
                         Naast je hoofdvak, praktijklessen en projecten volg je een aantal theoretische vakken.</p>

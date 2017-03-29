@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class="music-bg">
     <head>
         <meta charset="UTF-8">
         <link rel="stylesheet" type="text/css" href="style.css">
@@ -47,7 +47,7 @@
                         <li>Hoe laat je merken dat je een visie hebt en doelen kunt stellen voor de toekomst?</li>
                     </ul>
 
-                    <a href = "klassiekmusicpageopendag.php">
+                    <a href = "musicpageopendag.php">
                         <div class="muziek_opendag">
                             <img src="images/popopendag.jpg" alt="opendag">
                         </div></a>

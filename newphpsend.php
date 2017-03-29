@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html class="home-bg">
     <head>
         <title>send&nbsp;form</title>
     </head>

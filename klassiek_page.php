@@ -4,7 +4,7 @@ To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
-<html>
+<html class="music-bg">
     <head>
         <meta charset="UTF-8">
         <link rel="stylesheet" type="text/css" href="style.css">
@@ -40,7 +40,7 @@ and open the template in the editor.
                     <h2>Toelatingseisen:</h2>
                     <p>Wanneer je je voor de opleiding hebt aangemeld, ontvang je per mail een uitnodiging voor het toelatingsexamen, welke plaatsvinden in mei en juni.
                    Je zult zowel een theorie- als praktijkexamen doen, en wanneer deze beoordeeld zijn met een voldoende, zal de opleidingscommissie bepalen of je op de wachtlijst komt.</p>
-               <a href = "klassiekmusicpageopendag.php">
+               <a href = "musicpageopendag.php">
                                <div class="muziek_opendag">
                     <img src="images/klassiekopendag.jpg" alt="opendag">
                 </div></a>

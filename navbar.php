@@ -22,7 +22,7 @@
         </li>
         <li>
 
-            <a href="login_pagina.php" target="_self">login</a>
+            <a href="login_pagina.php" target="_self">Login</a>
         </li>
         <li>
             <a href="index.php" target="_self">English</a>
