@@ -24,7 +24,7 @@ and open the template in the editor.
                 ?>
 
     <div class = "container">
-        <div class = "blok_boven"><h1>Klassieke muziek</h1>
+        <div class = "blok_boven"><h1>Muziek - Klassieke muziek</h1>
         </div>
 
         <div class = "blok_onder">
