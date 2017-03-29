@@ -17,6 +17,7 @@
                         <img src="images/topopleiding.png" alt="topopleiding.png">
 
                     </div>
+
                     <div><p class="header_title">BU Instituut</p></div>
                     <div><p class="subheader">Voor Sport en Muziek</p></div>
 
