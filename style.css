@@ -248,3 +248,9 @@ img.photoMedia{
 .uploadForm input{
     margin-top: 10px;
 }
+
+.Cform{
+    height:200px;
+    width:200px;
+    float:left;
+}
