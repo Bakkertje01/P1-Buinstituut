@@ -141,7 +141,6 @@ li1 a:hover {
     margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
-    padding: 6px;
 }
 ul{
     list-style-type: circle;
@@ -166,6 +165,7 @@ h2{
 }
 p{
     color: white;
+    margin-left: 5px;
 }
 
 /*FOOTER*/
