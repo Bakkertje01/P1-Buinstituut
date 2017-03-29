@@ -14,13 +14,13 @@
 		?>
             <div class="Cform">
                 <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
-                Naam:<br><input type="text" name="naam" value="vul&nbsp;in&nbsp;naam">
+                Naam:<br><input type="text" name="naam" placeholder="vul&nbsp;in&nbsp;naam">
                 <br>
-                achternaam:<br><input type="text" name="achternaam" value="vul&nbsp;in&nbsp;achternaam">
+                achternaam:<br><input type="text" name="achternaam" placeholder="vul&nbsp;in&nbsp;achternaam">
                 <br>
-                e-mail:<br><input type="text" name="e-mail" value="vul&nbsp;in&nbsp;email">
+                e-mail:<br><input type="text" name="e-mail" placeholder="vul&nbsp;in&nbsp;email">
                 <br>
-                comment:<br><input type="text" name="comment" value="vul&nbsp;in&nbsp;comment">
+                comment:<br><input type="text" name="comment" placeholder="vul&nbsp;in&nbsp;comment">
                 <br>
                 <input type="submit" name="submit">
                 <input type="reset" name="reset">
