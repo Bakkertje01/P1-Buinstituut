@@ -145,7 +145,7 @@ li1 a:hover {
 }
 ul{
     list-style-type: circle;
-    padding-left: 16px;
+    padding-left: 21px;
     color: white;
 }
 .blok_onder_opleidingen{
@@ -163,6 +163,7 @@ h1{
 h2{
     color: grey;
     padding-top: 10px;
+    margin-left: 5px;
 }
 p{
     color: white;
