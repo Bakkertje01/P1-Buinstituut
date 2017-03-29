@@ -252,8 +252,17 @@ img.photoMedia{
     margin-top: 10px;
 }
 
-Cform{
+.Cform{
     height:200px;
     width:910px;
     float:left;
+}
+
+.contactinfo{
+    height:200px;
+    width:910px;
+    float:left;
+    text-align:justify;
+    
+    
 }
