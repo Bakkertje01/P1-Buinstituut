@@ -30,8 +30,8 @@ and open the template in the editor.
                 <div class = "blok_onder">
                     <div class="loginPrompt">
                         <form action="foto_upload.php" method="POST">
-                            <p><label for="username">Gebruikersnaam: </label><input type="text" name="username"/></p>
-                            <p><label for="password">Wachtwoord: </label><input type="password" name="password"/></p>
+                            <p><label for="username">Gebruikersnaam: </label><input type="text" id="username" name="username"/></p>
+                            <p><label for="password">Wachtwoord: </label><input type="password" id="password" name="password"/></p>
                             <p><input type="submit" value="Inloggen"/></p>
                         </form>
                     </div>
