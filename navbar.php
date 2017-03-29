@@ -8,24 +8,24 @@
 ?>
 <div class = "navbar">
     <ul class = "header_ul">
-        <li1>
+        <li>
             <a href="index.php" target="_self">Home</a>
-        </li1>
-        <li1>
-            <a href="Opleidingen.php" target="_self">Opleidingen</a>
-        </li1>
-        <li1>
+        </li>
+        <li>
+            <a href="opleidingen.php" target="_self">Opleidingen</a>
+        </li>
+        <li>
             <a href="media.php" target="_self">Media</a>
-        </li1>
-        <li1>
+        </li>
+        <li>
             <a href="contact.php" target="_self">Contact</a>
-        </li1>
-        <li1>
+        </li>
+        <li>
 
             <a href="login_pagina.php" target="_self">login</a>
-        </li1>
-        <li1>
+        </li>
+        <li>
             <a href="index.php" target="_self">English</a>
-        </li1>
+        </li>
     </ul>
 </div>
