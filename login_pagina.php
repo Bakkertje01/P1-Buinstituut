@@ -28,11 +28,13 @@ and open the template in the editor.
                 </div>
 
                 <div class = "blok_onder">
-                    <form action="foto_upload.php" method="POST">
-                        <p>username:   <input type="text" name="username"/></p>
-                        <p>password:   <input type="password" name="password"/></p>
-                        <p><input type="submit" value="Login"/></p>
-                    </form>
+                    <div class="loginPrompt">
+                        <form action="foto_upload.php" method="POST">
+                            <p>Gebruikersnaam:   <input class="loginInput" type="text" name="username"/></p>
+                            <p>Wachtwoord:   <input class="loginInput" type="password" name="password"/></p>
+                            <p><input class="loginInput" type="submit" value="Inloggen"/></p>
+                        </form>
+                    </div>
                 </div>
             </div>
 

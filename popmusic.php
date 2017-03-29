@@ -20,13 +20,15 @@
 
             <div class = "container">
                 <div class = "blok_boven">
-                    <h1>Popmuziek</h1>
+                    <h1>Muziek - Popmuziek</h1>
                 </div>
                 <div class = "blok_onder">
                     <p>Wanneer je voor de opleiding popmuziek kiest, zul je leren wat synthesizers zijn en hoe je deze zult gebruiken.
                        Daarnaast leer je veel instrumenten te bespelen die binnen de huidige trends van popmuziek passen. 
                        Op deze manier vind je welke instrumenten het beste bij jou passen.</p>
                     <br>
+                    <p>De opleiding populaire muziek is een goede keuze als je een toekomstgerichte visie hebt op het gebied van muziek.
+                        Hier op het Beth Underhill instituut staat de begeleiding klaar om je hiermee te helpen.</p>
                     <h2>Duur:</h2>
                     <p>De duur van de opleiding bedraagt 4 jaar.</p>
                     <h2>Vooropleidingseisen:</h2>

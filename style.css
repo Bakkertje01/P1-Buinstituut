@@ -162,7 +162,7 @@ h1{
     padding-top: 15px;
 }
 h2{
-    color: white;
+    color: grey;
     padding-top: 10px;
 }
 p{
@@ -205,4 +205,14 @@ img.photoMedia{
 .rss{
     float: right;
 
+}
+
+.loginPrompt{
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+input.loginInput{
+    margin-bottom: 10px;
 }
