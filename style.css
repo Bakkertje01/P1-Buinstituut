@@ -143,11 +143,19 @@ li1 a:hover {
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
 }
-.muziek_opendag{
-    background-image; url("images/opendag.jpg");
+.muziek_opendag img{
     width: 200px;
     height: 200px;
-    float: left
+    float: left;
+    margin-top: 60px;
+    margin-left: 20px;
+}
+.muziek_info img{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 20px;
 }
 ul{
     list-style-type: circle;
