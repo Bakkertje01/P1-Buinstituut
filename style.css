@@ -189,6 +189,11 @@ p{
     margin-left: 5px;
     margin-top: 6px;
 }
+p.opendag{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
 
 /*FOOTER*/
 .footer{
