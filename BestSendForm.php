@@ -12,7 +12,10 @@
             
         }
 		?>
-            <div class="blok_onder">
+            <div class="contactinfo">
+                <p>hierop kun je je contact informatie op achterlaten of om vragen te stellen.
+                Wij zullen proberen om zo snel mogelijk te antwoorden.</p>
+                </div>
                 <div class="Cform">
                     <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
                     Naam:<br><input type="text" name="naam" placeholder="vul&nbsp;in&nbsp;naam">
@@ -26,7 +29,7 @@
                     <input type="submit" name="submit">
                     <input type="reset" name="reset">
                 </div>
-            </div>
+            
             
             
             
