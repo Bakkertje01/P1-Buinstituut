@@ -29,7 +29,7 @@ and open the template in the editor.
                 
                 <div class = "blok_onder">
                     <?php
-                    include 'newphpsend.php';
+                    include 'BestSendForm.php';
                     ?>
 
                 </div>
