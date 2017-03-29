@@ -32,7 +32,7 @@ and open the template in the editor.
                     include 'newphpsend.php';
                     ?>
 
-                </div>f
+                </div>
 
             </div>
 
