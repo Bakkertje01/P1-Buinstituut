@@ -45,7 +45,7 @@
                         Gedurende deze jaren is er ook ruimte voor invulling van keuzemodules met accenten waarin je jezelf herkent en wilt ontplooien.
                         Ook is er de mogelijkheid om deel te nemen aan een internationaal uitwisselingsprogramma. In je vierde jaar concentreer je je op het hoofdvak en sluit je je studie af met een eindexamenconcert.</p>
                 </div>
-            </div>
-        </div>
-    </body>
+</div>
+</div>
+</body>
 </html>

@@ -23,9 +23,7 @@
             </div>
             <div class = "blok_onder">
                 <p>Wil je weten of een Conservatoriumstudie iets voor jou is? Kom dan naar een van de open dagen van het Prins Claus Conservatorium.</p>
-                ​​​<br>
                 ​​<p>Alles wat je wilt weten over studeren aan het Prins Claus Conservatorium</p>
-                <br>
                 <p>Zowel voor algemene voorlichting over een studie aan het conservatorium als voor meer specifieke vragen kun je op de open dagen terecht.
                     Gedurende de hele dag zijn docenten en studenten aanwezig om al je vragen te beantwoorden. Ook kun je de hele dag binnenlopen bij de hoofden van de diverse studierichtingen.
                     Natuurlijk geven we niet alleen informatie, er is ook een gevarieerd muziekprogramma met jazz en klassieke muziek.
@@ -47,9 +45,9 @@
                 <p>14.45 Voorlichting theorie/gehoor</p>
                 <p>15.00 Voorlichting Jong Talent Klas Jazz</p>
 
-                <h3>Compositie, Muziek & Studioproducties</h3>
-                <br>
-                <p>11.30 Voorlichting CMS + rondleiding studio</p>
-                <p>12.15 Voorlichting theorie/gehoor</p>
-                <p>14.00 Voorlichting CMS + rondleiding studio</p>
-                <p>14:45 Voorlichting theorie/gehoor</p>
+                <p><i>Wijzigingen voorbehouden</i></p>
+            </div>
+        </div>
+        </div>
+    </body>
+</html>
