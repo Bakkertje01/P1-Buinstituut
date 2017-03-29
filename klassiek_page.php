@@ -35,7 +35,11 @@ and open the template in the editor.
             <p>Bij ons word je opgeleid tot een veelzijdig musicus van hoog niveau, die ook op zijn eigen praktijk kan reflecteren. 
             Je doet veel podiumervaring op in symfonie- en kamerorkesten, het koor en in diverse ensembles. Binnen maar vooral ook buiten het conservatorium. 
             Je kunt bij ons je lesbevoegdheid halen en in de module Ondernemende Musicus leer je ondernemersvaardigheden die je later goed van pas zullen komen.</p>
-            
+            <h2>Duur:</h2>
+            <p>De duur van de opleiding bedraagt 4 jaar.</p>
+                <h2>Toelatingseisen:</h2>
+                <p>Wanneer je je voor de opleiding hebt aangemeld, ontvang je per mail een uitnodiging voor het toelatingsexamen, welke plaatsvinden in mei en juni.
+                   Je zult zowel een theorie- als praktijkexamen doen, en wanneer deze beoordeeld zijn met een voldoende, zal de opleidingscommissie bepalen of je op de wachtlijst komt.</p>
         </div>
 
     </div>
