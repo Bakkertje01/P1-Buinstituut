@@ -284,10 +284,14 @@ img.photoMedia{
     
 }
 input[type=submit], input[type=reset]{
+    heigth:50px;
+    width:60px;
+    float:left;
     
 }
 
 textarea{
-    heigth:;
-    width:;
+    heigth:50px;
+    width:100px;
+    float:left;
 }
