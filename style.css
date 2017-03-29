@@ -101,14 +101,14 @@ li1 a:hover {
     margin-bottom: 20px;
 }
 .blok_linksboven{
-    width: 455px;
+    width: 457px;
     height: 75px;
     margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
 }
 .blok_rechtsboven{
-    width: 455px;
+    width: 456px;
     height: 75px;
     margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
@@ -162,7 +162,7 @@ ul{
     color: white;
 }
 .blok_onder_opleidingen{
-    width: 920px;
+    width: 925px;
     height: 520px;
     margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
