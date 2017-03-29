@@ -29,32 +29,32 @@ and open the template in the editor.
 	?>
 
     <div class = "container">
-        <div class = "blok_boven"><h1>Log in pagina</h1>
+        <div class = "blok_boven">
+            <h1>Bestand upload</h1>
         </div>
 
         <div class = "blok_onder">
-            <div class="uploadForm"
+            <div class="uploadForm">
 			<?php
 			if (isset($_POST['username'], $_POST['password'])) {
 				if ($_POST['username'] == $username && $_POST['password'] == $password) {
 					?>
-                    <form action="uploadtest.php" method="post" enctype="multipart/form-data">
-                        <label for="fileToUpload">Select image to upload:</label>
+                    <form action="upload.php" method="post" enctype="multipart/form-data">
+                        <p><label for="fileToUpload">Select image to upload:</label></p>
                         <p><input type="file" name="fileToUpload" id="fileToUpload"></p>
-                        <input type="submit" value="Upload Image" name="submit">
+                        <p><input type="submit" value="Upload Image" name="submit"></p>
                     </form>
 					<?php
 				} else {
 					echo "Vul het juiste wachtwoord of gebruikersnaam in";
 				}
 			} else {
-				echo "geen input";
+				echo "Geen input";
 			}
 			?>
         </div>
+        </div>
     </div>
-
-</div>
 
 
 <?php

@@ -24,7 +24,7 @@ and open the template in the editor.
             ?>
 
             <div class = "container">
-                <div class = "blok_boven"><h1>Log in pagina</h1>
+                <div class = "blok_boven"><h1>Login pagina</h1>
                 </div>
 
                 <div class = "blok_onder">
@@ -34,6 +34,7 @@ and open the template in the editor.
                             <p><label for="password">Wachtwoord: </label><input type="password" id="password" name="password"/></p>
                             <p><input type="submit" value="Inloggen"/></p>
                         </form>
+                        <img src="images/login.png" alt="loginImage">
                     </div>
                 </div>
             </div>
