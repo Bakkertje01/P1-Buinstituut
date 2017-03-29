@@ -35,4 +35,17 @@
                     </ul>
                     <br>
                     <p>* Als je piano, orgel of klavecimbel studeert krijg je ook les op andere toetsinstrumenten zoals pianoforte en harmonium.</p>
+                    <br>
+                    <h2>Propedeuse</h2>
+                    <p>Het hoofdvak staat gedurende je hele studie centraal. Het eerste jaar is vooral oriënterend van aard.
+                        Naast je hoofdvak, praktijklessen en projecten volg je een aantal theoretische vakken.</p>
+                    <h2>Hoofdfase</h2>
+                    <p>In het tweede jaar verbreed en verdiep je jouw kennis en vaardigheden op zowel praktisch als theoretisch gebied en komen de basisbeginselen van muzikaal ondernemerschap en docentschap aan bod.
+                        In jaar drie en vier wordt veel aandacht besteed aan de verdieping van onderwijskundige vakken waarin interne-, externe- en projectstages centraal staan.
+                        Gedurende deze jaren is er ook ruimte voor invulling van keuzemodules met accenten waarin je jezelf herkent en wilt ontplooien.
+                        Ook is er de mogelijkheid om deel te nemen aan een internationaal uitwisselingsprogramma. In je vierde jaar concentreer je je op het hoofdvak en sluit je je studie af met een eindexamenconcert.</p>
                 </div>
+            </div>
+        </div>
+    </body>
+</html>
