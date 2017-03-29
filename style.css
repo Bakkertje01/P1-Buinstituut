@@ -254,7 +254,7 @@ img.photoMedia{
 
 .Cform{
     height:200px;
-    width:910px;
+    width:300px;
     float:left;
     margin-left:300px;
     background-color:grey;
@@ -265,7 +265,6 @@ img.photoMedia{
     width:300px;
     float:left;
     text-align:justify;
-    margin-left:350px;
     background-color: red;
     
     
