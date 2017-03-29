@@ -252,6 +252,7 @@ img.photoMedia{
 .Cform{
     height:200px;
     width:200px;
+    margin:auto;
     float:left;
-    margin-left:100px;
+    background-color:red;
 }
