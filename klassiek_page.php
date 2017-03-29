@@ -40,8 +40,8 @@ and open the template in the editor.
                     <h2>Toelatingseisen:</h2>
                     <p>Wanneer je je voor de opleiding hebt aangemeld, ontvang je per mail een uitnodiging voor het toelatingsexamen, welke plaatsvinden in mei en juni.
                    Je zult zowel een theorie- als praktijkexamen doen, en wanneer deze beoordeeld zijn met een voldoende, zal de opleidingscommissie bepalen of je op de wachtlijst komt.</p>
-                <div class="muziek_opendag">
-                </div>
+                    <div class="muziek_opendag">
+                    </div>
                 </div>
 
             </div>
