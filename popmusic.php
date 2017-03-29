@@ -38,8 +38,8 @@
                     <h2>Selectie/auditie</h2>
                     <ul>
                         <li>Demonstreer je vaardigheden in de setting waarin je normaal ook performt. 
-                            Bijvoorbeeld: speel je in een band, neem dan je band mee naar de auditie.</li>
-                        <li>Speel de stukken die je normaal ook speelt. Zo laat je het beste zien wat je in huis hebt.</li>
+                            Bijvoorbeeld: speel je in een band, neem dan je band mee naar de auditie</li>
+                        <li>Speel de stukken die je normaal ook speelt. Zo laat je het beste zien wat je in huis hebt</li>
                         <li>Bereid je voor op het motivatiegesprek. Hoe ga je verwoorden dat je vindt dat je op deze opleiding thuishoort? 
                             Hoe ga je blijk geven van je ondernemerschap?</li>
                         <li>Hoe laat je merken dat je een visie hebt en doelen kunt stellen voor de toekomst?</li>
