@@ -279,13 +279,13 @@ img.photoMedia{
     width:300px;
     float:left;
     text-align:justify;
-    background-color: #42c5f4;
+    background-color: #5552b2;
     padding:30px;
     margin-top:10px;
     margin-left:20px;
-    border-style:inset;
+    border-style:solid;
     box-shadow: 0px 10px 5px #000000;
-  
+    opacity:1;
 }
 
 .contactinfoB{
@@ -293,11 +293,12 @@ img.photoMedia{
     width:300px;
     float:left;
     text-align:justify;
-    background-color: #42c5f4;
+    background-color: #5552b2;
     padding:30px;
     margin-left:10px;
-    border-style:outset;
+    border-style:solid;
     box-shadow: 0px 15px 20px #000000;
+    opacity:1;
   
 }
 
