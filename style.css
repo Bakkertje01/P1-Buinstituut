@@ -308,7 +308,7 @@ img.photoMedia:hover{
     height:200px;
     width:280px;
     margin:auto;
-    margin-top:180px;
+    margin-top:220px;
     background-color:#5552b2;
     padding:50px;
     border-radius:50px;
@@ -350,7 +350,7 @@ img.photoMedia:hover{
 }
 
 
-
+test{}
 textarea{
     width:300px;
     float:left;
