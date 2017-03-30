@@ -208,12 +208,12 @@ p.opendag{
 /*FOOTER*/
 .footer{
     width: 100%;
-    height:100%;
+    height:200px;
     background-color:rgba(0, 0, 0, 0.6);
 }
 .footer_content{
     width: 937px;
-    height: 154px;
+    height: 200px;
     margin:0 auto;
     margin-top: 5px;
     color: white;
@@ -235,12 +235,13 @@ img.photoMedia{
     max-height: 200px;
 }
 .weer {
-    float: right;
+
     margin-top: 8px;
 }
 .rss{
     float: right;
-
+    width: 410px;
+    height: 200px;
 }
 
 .loginPrompt{
@@ -279,6 +280,4 @@ img.photoMedia{
     text-align:justify;
     background-color: red;
     padding:30px;
-    
-    
 }

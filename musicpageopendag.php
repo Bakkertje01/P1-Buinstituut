@@ -50,6 +50,9 @@
                 <p class="opendag">De eerstvolgende opendag vindt plaats op 23 mei 2017.</p>
             </div>
         </div>
+            <?php
+            include "footer.php";
+            ?>
         </div>
     </body>
 </html>
