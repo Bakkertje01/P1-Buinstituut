@@ -38,7 +38,13 @@ and open the template in the editor.
                         <h1>Muziek</h1>
                     </div>
                 </a>
-                <div class = "blok_onder">test
+                <div class = "blok_onder">
+                    <p>Het Beth Underhill Instituut in Hoogeveen biedt opleidingen in de richtingen muziek en sport aan op een hoog niveau.
+                    Met een praktijkgerichte en persoonlijke aanpak leiden we hoogopgeleide professionals op.
+                    Daarnaast werkt het Beth Underhill Instituut aan innovaties in de muziek- en sportbranches en blijft altijd op de hoogte van eventuele mutaties.
+                    </p>
+                    <br>
+                    <p>Graag tot ziens op het Beth Underhill Instituut</p>
                 </div>
 
             </div>

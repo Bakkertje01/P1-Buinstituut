@@ -27,6 +27,7 @@
                     <p>Het Beth Underhill Instituut is in korte tijd uitgegroeid tot een internationaal gerespecteerde Hogeschool voor haar muzikale opleidingen in de richtingen pop en klassiek. 
                        Onze missie is het opleiden van musici die het verschil maken in de muziekwereld.
                        Wij dagen jou uit om het uiterste uit jezelf te halen en reiken je een hand uit tijdens de weg die jij begaat.
+                       De muziek opleidingen worden in het Engels gegeven, zodat iedere student de mogelijkheid krijgt om internationaal te gaan.
                     </p>
                     <br>
                     <p>De muzikale visie van Beth Underhill, die gevormd is aan de Royal Conservatory of Music in Canada, wordt door ons in stand gehouden.
