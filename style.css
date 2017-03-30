@@ -127,7 +127,7 @@ ul.header_ul li a:active {
     background-color: rgba(0, 0, 0, 0.6);
     margin-top: 20px;
     margin-bottom: 20px;
-    overflow: hidden
+    overflow: hidden;
 
 }
 
@@ -139,11 +139,7 @@ ul.header_ul li a:active {
     float: left;
 }
 
-.blok_linksboven:hover {
-    border: 2px solid white;
-    width: 453px;
-    height: 71px;
-}
+
 
 .blok_rechtsboven {
     width: 456px;
@@ -153,11 +149,7 @@ ul.header_ul li a:active {
     float: left;
 }
 
-.blok_rechtsboven:hover {
-    border: 2px solid white;
-    width: 452px;
-    height: 71px;
-}
+
 
 .blok_boven {
     width: 925px;
@@ -183,11 +175,7 @@ ul.header_ul li a:active {
     float: left;
 }
 
-.blok_boven_sport:hover {
-    width: 921px;
-    height: 71px;
-    border: 2px solid white;
-}
+
 
 .blok_boven_muziek {
     width: 925px;
@@ -376,7 +364,7 @@ textarea {
 
 .adres {
     float: left;
-    height: 350px;
+    height: 100%;
     width: 90%;
     background-color: orange;
     margin-top: 20px;
