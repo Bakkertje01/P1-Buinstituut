@@ -2,8 +2,8 @@
 <html class="music-bg">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="mobile.css">
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="../mobile.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <title></title>
 </head>
@@ -19,9 +19,9 @@
     ?>
 
     <div class = "container">
-        <a href= "popmusic.php"><div class = "blok_linksboven"><h1>Pop</h1>
+        <a href= "../popmusic.php"><div class = "blok_linksboven"><h1>Pop</h1>
             </div></a>
-        <a href= "klassiek_page.php"><div class = "blok_rechtsboven"><h1>Classic</h1>
+        <a href= "../klassiek_page.php"><div class = "blok_rechtsboven"><h1>Classic</h1>
             </div></a>
         <div class = "blok_onder">
             <p>The Beth Underhill Institute has quickly grown to become an internationally respected university for her musical courses in the directions pop and classic.
