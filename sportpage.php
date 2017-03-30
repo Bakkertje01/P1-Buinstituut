@@ -24,7 +24,6 @@
                 <a href="coaching_page.php"><div class = "blok_rechtsboven"><h1>Coaching</h1>
                     </div></a>
                 <div class = "blok_onder">
-                    <h1>Opleiding Sport</h1>
                     <p>Kan je nooit lang stilzitten? Krijg je de kriebels van het idee van een werkweek zonder beweging? Als je voor een sportopleiding kiest, zal dit niet nodig zijn.
                         Je zult zelf veel sporten én actief bezig met anderen in beweging krijgen. Je kunt sport leraar worden, maar ook advies geven of evenementen organiseren.</p>
                     <h2>Hoe is de arbeidsmarkt na deze studies?</h2>
