@@ -30,9 +30,6 @@ and open the template in the editor.
 body{
 
 }
-
-
-
 /*HEADER*/
 .header{
     width: 100%;
@@ -118,12 +115,22 @@ ul.header_ul li a:active {
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
 }
+.blok_linksboven:hover{
+    border:2px solid white;
+    width: 453px;
+    height: 71px;
+}
 .blok_rechtsboven{
     width: 456px;
     height: 75px;
     margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
+}
+.blok_rechtsboven:hover{
+    border:2px solid white;
+    width: 452px;
+    height: 71px;
 }
 .blok_boven{
     width: 925px;
@@ -132,19 +139,30 @@ ul.header_ul li a:active {
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
 }
+
 .blok_boven_sport{
     width: 925px;
     height: 75px;
     margin: 6px;
-    background-color: blue;
+    background-color: rgba(0, 102, 204, 0.6);
     float: left;
+}
+.blok_boven_sport:hover{
+    width: 921px;
+    height: 71px;
+    border:2px solid white;
 }
 .blok_boven_muziek{
     width: 925px;
     height: 75px;
     margin: 6px;
-    background-color: blue;
+    background-color: rgba(0, 102, 204, 0.6);
     float: left;
+}
+.blok_boven_muziek:hover{
+    width: 921px;
+    height: 71px;
+    border:2px solid white;
 }
 .blok_onder{
     width: 925px;
@@ -160,12 +178,22 @@ ul.header_ul li a:active {
     margin-top: 40px;
     margin-left: 20px;
 }
+.muziek_opendag img:hover{
+    border:2px solid white;
+    width:196px;
+    height:196px;
+}
 .muziek_info img{
     width: 200px;
     height: 200px;
     float: left;
     margin-top: 40px;
     margin-left: 20px;
+}
+.muziek_info img:hover{
+    border:2px solid white;
+    width:196px;
+    height:196px;
 }
 ul{
     list-style-type: circle;
@@ -225,15 +253,25 @@ p.opendag{
     float: left;
     margin-left: 10px;
 }
+.social_plaatje img:hover{
+    border:2px solid black;
+    width: 46px;
+    height: 46px;
+}
 .media_photo{
     margin: 5px;
     height: 200px;
     float: left;
 }
+
 img.photoMedia{
     max-width: 200px;
     max-height: 200px;
 }
+img.photoMedia:hover{
+    border:2px solid white;
+}
+
 .weer {
     float: right;
     margin-top: 8px;
@@ -243,7 +281,6 @@ img.photoMedia{
     width: 480px;
     height: 160px;
     float: right;
-
 }
 
 .loginPrompt{
@@ -305,14 +342,11 @@ img.photoMedia{
     border-style:solid;
     border-width:1px;
     box-shadow: -15px 10px 20px #000000;
-
-
 }
 
 
 
 textarea{
-
     width:300px;
     float:left;
 }
