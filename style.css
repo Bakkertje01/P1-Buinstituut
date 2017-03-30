@@ -10,258 +10,230 @@ and open the template in the editor.
 
 /**/
 
-* {
+*{
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
 }
-
 .sport-bg {
     background: url(images/sport-bg.jpg);
     background-size: cover;
 }
-
-.music-bg {
+.music-bg{
     background: url(images/music-bg.jpg);
 }
-
 .home-bg {
     background: url(images/background.jpg);
     background-size: cover;
 }
 
-/*HEADER*/
-.header {
-    width: 100%;
-    height: 150px;
-    background-color: rgba(0, 0, 0, 0.6);
+body{
+
 }
 
-.header_content {
+
+
+/*HEADER*/
+.header{
+    width: 100%;
+    height:150px;
+    background-color:rgba(0, 0, 0, 0.6);
+}
+.header_content{
     color: white;
     width: 937px;
-    height: 150px;
-    margin: 0 auto;
+    height:150px;
+    margin:0 auto;
 }
-
-.header img {
+.header img{
     height: 110px;
     width: 134px;
     float: left;
     margin-left: 5px;
     margin-top: 5px;
 }
-
-.header_title {
+.header_title{
     font-size: 54px;
     font-weight: bold;
     padding-left: 150px;
     padding-top: 30px;
 }
-
-.subheader {
+.subheader{
     font-size: 18px;
     padding-left: 190px;
 }
-
-.top_opleiding img {
+.top_opleiding img{
     height: 110px;
     width: 110px;
     float: right;
     margin-right: 150px;
     margin-top: 15px;
 }
-
 /*menu*/
 
-.navbar {
+.navbar{
     width: 100%;
     height: 50px;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color:rgba(0, 0, 0, 0.6); 
     margin: 0 auto;
 }
-
-ul.header_ul {
+ul.header_ul{
     width: 937px;
     margin: 0 auto;
 }
-
-ul.header_ul li {
+ul.header_ul li{
     float: left;
     list-style-type: none;
     color: white;
 }
 
-ul.header_ul li a {
+ul.header_ul li a{
     display: block;
     color: white;
     text-align: center;
     padding: 16px 16px;
     text-decoration: none;
 }
-
 ul.header_ul li a:hover {
     color: #30C4E9;
     background-color: lightgrey;
 }
-
 ul.header_ul li a:active {
     background-color: #30C4E9;
     color: white;
 }
-
 /*inhoud*/
-.container {
+.container{
     width: 937px;
-    height: 800px;
-    margin: 0 auto;
-    background-color: rgba(0, 0, 0, 0.6);
+    height:800px;
+    margin:0 auto;
+    background-color:rgba(0, 0, 0, 0.6); 
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
-.blok_linksboven {
+.blok_linksboven{
     width: 457px;
     height: 75px;
     margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
 }
-
-.blok_rechtsboven {
+.blok_rechtsboven{
     width: 456px;
     height: 75px;
     margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
 }
-
-.blok_boven {
+.blok_boven{
     width: 925px;
     height: 75px;
     margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
 }
-
-.blok_boven_sport {
+.blok_boven_sport{
     width: 925px;
     height: 75px;
     margin: 6px;
     background-color: blue;
     float: left;
 }
-
-.blok_boven_muziek {
+.blok_boven_muziek{
     width: 925px;
     height: 75px;
     margin: 6px;
     background-color: blue;
     float: left;
 }
-
-.blok_onder {
+.blok_onder{
     width: 925px;
     height: 700px;
     margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
 }
-
-.muziek_opendag img {
+.muziek_opendag img{
     width: 200px;
     height: 200px;
     float: left;
     margin-top: 40px;
     margin-left: 20px;
 }
-
-.muziek_info img {
+.muziek_info img{
     width: 200px;
     height: 200px;
     float: left;
     margin-top: 40px;
     margin-left: 20px;
 }
-
-ul {
+ul{
     list-style-type: circle;
     padding-left: 21px;
     color: white;
 }
-
-.blok_onder_opleidingen {
+.blok_onder_opleidingen{
     width: 925px;
     height: 520px;
     margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
 }
-
-h1 {
+h1{
     color: white;
     text-align: center;
     padding-top: 15px;
 }
-
-h2 {
+h2{
     color: grey;
     padding-top: 10px;
     margin-left: 5px;
 }
-
-h3 {
+h3{
     color: white;
     padding-top: 10px;
     margin-left: 5px;
 }
-
-p {
+p{
     color: white;
     margin-left: 5px;
     margin-top: 6px;
 }
-
-p.opendag {
+p.opendag{
     color: white;
     font-size: 18px;
     text-align: center;
 }
 
 /*FOOTER*/
-.footer {
+.footer{
     width: 100%;
     height: 200px;
     background-color: rgba(0, 0, 0, 0.6);
 }
-
-.footer_content {
+.footer_content{
     width: 937px;
     height: 200px;
     margin: 0 auto;
     margin-top: 5px;
     color: white;
 }
-
-.social_plaatje img {
+.social_plaatje img{
     width: 50px;
     height: 50px;
     margin-top: 8px;
     float: left;
     margin-left: 10px;
 }
-
-.media_photo {
+.media_photo{
     margin: 5px;
     height: 200px;
     float: left;
 }
-
-img.photoMedia {
+img.photoMedia{
     max-width: 200px;
     max-height: 200px;
 }
-
 .weer {
     float: right;
     margin-top: 8px;
@@ -271,26 +243,27 @@ img.photoMedia {
     width: 480px;
     height: 160px;
     float: right;
+
 }
 
-.loginPrompt {
+.loginPrompt{
     width: 200px;
     margin: 0 auto;
     margin-top: 20px;
     text-align: center;
 }
 
-.loginPrompt input {
+.loginPrompt input{
     margin-bottom: 10px;
 }
 
-.uploadForm {
+.uploadForm{
     text-align: center;
     margin-top: 10px;
     color: white;
 }
 
-.uploadForm input {
+.uploadForm input{
     margin-top: 10px;
 }
 
@@ -298,37 +271,48 @@ img.photoMedia {
     height:200px;
     width:280px;
     margin:auto;
-    margin-top:140px;
-    background-color:grey;
+    margin-top:180px;
+    background-color:#5552b2;
     padding:50px;
     border-radius:50px;
+    border-style:solid;
+    border-width:1px;
 }
-
 
 .contactinfo{
     height:100px;
     width:300px;
     float:left;
     text-align:justify;
-    background-color: #42c5f4;
+    background-color: #5552b2;
     padding:30px;
-
+    margin-top:10px;
+    margin-left:20px;
+    border-style:solid;
+    border-width:1px;
+    box-shadow: -15px 10px 20px #000000;
+    opacity:0.9;
 }
-
-input[type=submit], input[type=reset] {
-    heigth: 50px;
-    width: 60px;
 
 .contactinfoB{
     height:100px;
     width:300px;
     float:left;
     text-align:justify;
-    background-color: #42c5f4;
+    background-color: #5552b2;
     padding:30px;
+    margin-left:10px;
+    border-style:solid;
+    border-width:1px;
+    box-shadow: -15px 10px 20px #000000;
+
 
 }
+
+
+
 textarea{
+
     width:300px;
     float:left;
 }
