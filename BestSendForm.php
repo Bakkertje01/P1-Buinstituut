@@ -13,8 +13,10 @@
         }
 		?>
             <div class="contactinfo">
-                <p>Hierop kun je je contact informatie op achterlaten of om vragen te stellen.
-                Wij zullen proberen om zo snel mogelijk te antwoorden.</p>
+                <div class="contactinfoB">
+                    <p>Hierop kun je je contact informatie op achterlaten of om vragen te stellen.
+                    Wij zullen proberen om zo snel mogelijk te antwoorden.</p>
+                    </div>
                 </div>
                 <div class="Cform">
                     <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
@@ -24,7 +26,10 @@
                     <br>
                     e-mail:<br><input type="text" name="e-mail" placeholder="vul&nbsp;in&nbsp;email">
                     <br>
-                    comment:<br><input type="text" name="comment" placeholder="vul&nbsp;in&nbsp;comment">
+                    comment:<br><textarea  name="comment" rows=4 cols=8 >
+                        
+                    </textarea>
+                                
                     <br>
                     <input type="submit" name="submit">
                     <input type="reset" name="reset">
