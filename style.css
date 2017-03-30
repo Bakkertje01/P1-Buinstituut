@@ -21,6 +21,7 @@ and open the template in the editor.
 }
 .music-bg{
     background: url(images/music-bg.jpg);
+    background-size: cover;
 }
 .home-bg {
     background: url(images/background.jpg);
@@ -28,7 +29,6 @@ and open the template in the editor.
 }
 
 body{
-
 }
 /*HEADER*/
 .header{
@@ -236,7 +236,7 @@ p.opendag{
 /*FOOTER*/
 .footer{
     width: 100%;
-    height: 200px;
+    height: 100%;
     background-color: rgba(0, 0, 0, 0.6);
 }
 .footer_content{
@@ -258,19 +258,6 @@ p.opendag{
     width: 46px;
     height: 46px;
 }
-.media_photo{
-    margin: 5px;
-    height: 200px;
-    float: left;
-}
-
-img.photoMedia{
-    max-width: 200px;
-    max-height: 200px;
-}
-img.photoMedia:hover{
-    border:2px solid white;
-}
 
 .weer {
     float: right;
@@ -279,8 +266,22 @@ img.photoMedia:hover{
 
 .rss {
     width: 480px;
-    height: 160px;
+    height: 170px;
     float: right;
+}
+
+/*FOOTER END*/
+.media_photo{
+    margin: 5px;
+    height: 200px;
+    float: left;
+}
+img.photoMedia{
+    max-width: 200px;
+    max-height: 200px;
+}
+img.photoMedia:hover{
+    border:2px solid white;
 }
 
 .loginPrompt{
@@ -307,9 +308,10 @@ img.photoMedia:hover{
 .Cform{
     height:200px;
     width:280px;
-    margin:auto;
-    margin-top:220px;
-    background-color:#5552b2;
+    float: left;
+    margin-left: 80px;
+    margin-top: 10px;
+    background-color: orange;
     padding:50px;
     border-radius:50px;
     border-style:solid;
@@ -326,7 +328,7 @@ img.photoMedia:hover{
     width:300px;
     float:left;
     text-align:justify;
-    background-color: #5552b2;
+    background-color: orange;
     padding:30px;
     margin-top:10px;
     margin-left:20px;
@@ -341,18 +343,37 @@ img.photoMedia:hover{
     width:300px;
     float:left;
     text-align:justify;
-    background-color: #5552b2;
+    background-color: orange;
     padding:30px;
     margin-left:10px;
     border-style:solid;
     border-width:1px;
     box-shadow: -15px 10px 20px #000000;
 }
-
-
-test{}
 textarea{
     width:300px;
     float:left;
     resize:none;
+}
+.adres{
+    float: left;
+    height: 350px;
+    width: 90%;
+    background-color: orange;
+    margin-top: 20px;
+    margin-left: 20px;
+    border:1px solid black;
+}
+.adres_gegevens {
+    float: left;
+    height: 310px;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.kaartje iframe {
+    border:1px solid black;
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
 }

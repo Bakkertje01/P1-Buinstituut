@@ -47,12 +47,9 @@ if (isset($_POST["submit"])) {
 	fclose($Nfile);
 
 	//schrijft bestanden naar htdocs(de server)
-
-
 }
-
-
 ?>
+
 
 
 </body>

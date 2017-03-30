@@ -24,7 +24,7 @@ and open the template in the editor.
 }
 @media screen and (max-width: 980px) {
     body {
-        width: 980px
+        width:100%;
     }
 }
 @media screen and (max-width: 980px) {
@@ -48,14 +48,14 @@ and open the template in the editor.
         color: white;
         background-color:rgba(0, 0, 0, 0.6);
         width:100%;
-        height: 800px;
+        height: 100%;
         margin-top: 10px;
     }
 }
 @media screen and (max-width: 980px) {
     .blok_linksboven{
         width: 98%;
-        height: 10%;
+        height: 200px;
         margin: 1%;
         background-color: rgba(0, 102, 204, 0.6);
         float: left;
@@ -64,7 +64,7 @@ and open the template in the editor.
 @media screen and (max-width: 980px) {
     .blok_boven{
         width: 98%;
-        height: 10%;
+        height: 200px;
         margin: 1%;
         background-color: rgba(0, 102, 204, 0.6);
         float: left;
@@ -73,7 +73,7 @@ and open the template in the editor.
 @media screen and (max-width: 980px) {
     .blok_boven_muziek{
         width: 98%;
-        height: 10%;
+        height: 200px;
         margin: 1%;
         background-color: rgba(0, 102, 204, 0.6);
         float: left;
@@ -82,7 +82,7 @@ and open the template in the editor.
 @media screen and (max-width: 980px) {
     .blok_boven_sport{
         width: 98%;
-        height: 10%;
+        height: 200px;
         margin: 1%;
         background-color: rgba(0, 102, 204, 0.6);
         float: left;
@@ -91,7 +91,7 @@ and open the template in the editor.
 @media screen and (max-width: 980px) {
     .blok_rechtsboven{
         width: 98%;
-        height: 10%;
+        height: 200px;
         margin: 1%;
         background-color: rgba(0, 102, 204, 0.6);
         float: left;
@@ -100,7 +100,7 @@ and open the template in the editor.
 @media screen and (max-width: 980px) {
     .blok_onder{
         width: 98%;
-        height: 73%;
+        height: 800px;
         margin: 1%;
         background-color: rgba(0, 102, 204, 0.6);
         float: left;
@@ -109,7 +109,7 @@ and open the template in the editor.
 @media screen and (max-width: 980px) {
     .blok_onder_opleidingen{
         width: 98%;
-        height: 60%;
+        height: 800px;
         margin: 1%;
         background-color: rgba(0, 102, 204, 0.6);
         float: left;
@@ -219,14 +219,8 @@ and open the template in the editor.
         margin:0 auto;
     }
 }
-@media screen and (max-width: 980px) {
-    .footer_content{
-        width:100%;
-        height:260px;
-        color: white;
-        margin-left: 5px;
-    }
-}
+
+
 
 @media screen and (max-width: 980px) {
     .social_plaatje img{
@@ -235,4 +229,9 @@ and open the template in the editor.
         margin-top: 5px;
         float: left;
     }
+}
+@media screen and (max-width: 980px) {
+.rss {
+
+}
 }

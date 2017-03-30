@@ -9,29 +9,31 @@
 <div class="footer">
     <div class="footer_content">
 
-        <div>
+        <div class="social_plaatje">
             <a href="https://www.facebook.com/">
-                <div class="social_plaatje">
+
                     <img src="images/facebook.png" alt="logo-header.png">
+            </a>
                 </div>
 
-            </a>
-        </div>
-        <div>
+
+
+        <div class="social_plaatje">
             <a href="https://www.twitter.com">
-                <div class="social_plaatje">
+
                     <img src="images/twitter.png" alt="logo-header.png">
             </a>
         </div>
 
-        <div>
+        <div class="social_plaatje">
             <a href="contact.php" target="_self">
-                <div class="social_plaatje">
+
                     <img src="images/mail.png" alt="logo-header.png">
             </a>
         </div>
+
         <div class="rss">
-            <iframe width="460" height="190" style="border:none;"
+            <iframe width="480" height="170" style="border:none;"
                     src="http://output90.rssinclude.com/output?type=iframe&amp;id=1131044&amp;hash=f7dec42c6a3aef1ae5b7a532d89cecc0"></iframe>
 
         </div>
@@ -45,7 +47,8 @@
                             alt="Find more about Weather in Hoogeveen, NL" width="160"/></a><br><a
                         href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:00000.1.06279&bannertypeclick=wu_simplewhite"
                         title="Get latest Weather Forecast updates" style="font-family: sans-serif; font-size: 12px"
-                        target="_blank"></span>
+                        target="_blank">
+            </span>
 
         </div>
 
