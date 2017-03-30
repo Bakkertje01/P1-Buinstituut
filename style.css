@@ -284,8 +284,9 @@ img.photoMedia{
     margin-top:10px;
     margin-left:20px;
     border-style:solid;
-    box-shadow: 0px 10px 5px #000000;
-    opacity:0.5;
+    border-width:1px;
+    box-shadow: -15px 10px 20px #000000;
+    opacity:0.9;
 }
 
 .contactinfoB{
@@ -297,8 +298,9 @@ img.photoMedia{
     padding:30px;
     margin-left:10px;
     border-style:solid;
-    box-shadow: 0px 15px 20px #000000;
-    opacity:0.5;
+    border-width:1px;
+    box-shadow: -15px 10px 20px #000000;
+   
   
 }
 
