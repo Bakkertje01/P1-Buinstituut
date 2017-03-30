@@ -37,6 +37,19 @@
                         In de mensbiologische vakken krijg je vaak samen met de andere sportopleidingen les over de bouw van het menselijk lichaam en bijvoorbeeld de verschillende spiergroepen.
                         Omdat je wordt opgeleid tot leraar krijg je een aantal 'didactische' vakken waar je leert over lesgeven. Je krijgt vakken psychologie, pedagogiek en cursussen coaching en begeleiding.</p>
                     <br>
+                    <h2 class="coachingpage">Wat kan ik verwachten van de begeleiding?</h2>
+                    <p class="coachingpage">
+                    <ul>
+                        <li>Een professionele begeleiding door een opgeleide leraar/coach</li>
+                        <li>Een persoonsgerichte begeleiding</li>
+                        <li>Positieve kritiek d.m.v. aandachtspunten</li>
+                        <li>S.M.A.R.T. doelstellingen hanteren</li>
+                        <li>Iemand waar je altijd op terug kan vallen</li>
+                        <li>Praktijkwerkervaring</li>
+                        <ul>
+                    </p>
+                    <p class="coachingpage">
+                    </p>
                     <p>Kortom, wij bieden jou alles wat je nodig hebt om het beste uit jezelf te halen. Tot ziens in Hoogeveen.</p>
                     <br>
                     <p><b>Raymond Blankestijn</b></p>
@@ -44,21 +57,6 @@
 
 
 
-
-
-		<h2 class="coachingpage">Wat kan ik verwachten van de begeleiding?</h2>
-		<p class="coachingpage">
-		<ul>
-			<li>Een professionele begeleiding door een opgeleide leraar/coach</li>
-			<li>Een persoonsgerichte begeleiding</li>
-			<li>Positieve kritiek d.m.v. aandachtspunten</li>
-			<li>S.M.A.R.T. doelstellingen hanteren</li>
-			<li>Iemand waar je altijd op terug kan vallen</li>
-			<li>Praktijkwerkervaring</li>
-		<ul>
-		</p>
-		<p class="coachingpage">
-		</p>
 
         </div>
     </div>
