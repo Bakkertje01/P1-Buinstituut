@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class="music-bg">
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="style.css">
@@ -41,6 +41,9 @@
                 Ook is er de mogelijkheid om deel te nemen aan een internationaal uitwisselingsprogramma. In je vierde jaar concentreer je je op het hoofdvak en sluit je je studie af met een eindexamen.</p>
         </div>
     </div>
+    <?php
+    include "footer.php";
+    ?>
 </div>
 </body>
 </html>

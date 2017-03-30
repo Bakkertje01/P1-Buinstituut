@@ -27,8 +27,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         e-mail:<br><input type="email" name="e-mail" placeholder="vul&nbsp;in&nbsp;email">
         <br>
         comment:<br><textarea title="comment" id="comment" name="comment" rows=4 cols=8></textarea>
-
-
         <br>
         <input type="submit" name="submit">
         <input type="reset" name="reset">
@@ -44,7 +42,7 @@ if (isset($_POST["submit"])) {
 	$achternaamSend = $_POST["achternaam"]; //achernaam verzender
 	$emailSend = $_POST["e-mail"];  //email verzender
 	$emailCom = $_POST["comment"];
-	$fullInfo = "Name:" . " " . $naamsend . " " . "achternaam:" . " " . $achternaamSend . " " . "mail:" . " " . $emailSend . " " . "comments:" . " " . $emailCom; //stelt email op met info
+	$fullInfo = "Name:" . " " . $naamsend . "" . "achternaam:" . " " . $achternaamSend . " " . "mail:" . " " . $emailSend . " " . "comments:" . " " . $emailCom; //stelt email op met info
 	fwrite($Nfile, $fullInfo);
 	fclose($Nfile);
 
