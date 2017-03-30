@@ -268,7 +268,7 @@ img.photoMedia{
     height:200px;
     width:280px;
     margin:auto;
-    margin-top:120px;
+    margin-top:140px;
     background-color:grey;
     padding:50px;
     border-radius:50px;
@@ -279,7 +279,7 @@ img.photoMedia{
     width:300px;
     float:left;
     text-align:justify;
-    background-color: #6163A9;
+    background-color: #42c5f4;
     padding:30px;
   
 }
@@ -289,7 +289,7 @@ img.photoMedia{
     width:300px;
     float:left;
     text-align:justify;
-    background-color: #6163A9;
+    background-color: #42c5f4;
     padding:30px;
   
 }
@@ -297,7 +297,7 @@ img.photoMedia{
 
 
 textarea{
-    heigth:300px;
+
     width:300px;
     float:left;
 }
