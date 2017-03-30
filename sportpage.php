@@ -41,11 +41,11 @@
                         <li>Iemand waar je altijd op terug kan vallen</li>
                         <li>Praktijkwerkervaring</li>
                     </ul>
-                    </p>
-                    <br>
-                    <p><b>Raymond Blankestijn</b></p>
-                    <p>Directeur Beth Underhill Instituut.</p>
 
+                    <br>
+                    <p><b>Raymond Blankestijn</b><br>
+                    Directeur Beth Underhill Instituut.</p>
+                </p>
 
 
 

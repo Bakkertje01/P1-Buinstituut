@@ -29,6 +29,8 @@ and open the template in the editor.
 }
 
 body{
+    min-height: 100%
+    height: 100%
 }
 /*HEADER*/
 .header{
@@ -102,11 +104,13 @@ ul.header_ul li a:active {
 /*inhoud*/
 .container{
     width: 937px;
-    height:800px;
+    min-height: 800px;
     margin:0 auto;
-    background-color:rgba(0, 0, 0, 0.6); 
+    background-color:rgba(0, 0, 0, 0.6);
     margin-top: 20px;
     margin-bottom: 20px;
+    overflow:hidden
+
 }
 .blok_linksboven{
     width: 457px;
@@ -166,10 +170,10 @@ ul.header_ul li a:active {
 }
 .blok_onder{
     width: 925px;
-    height: 700px;
     margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
+    min-height:700px;
 }
 .muziek_opendag img{
     width: 200px;
@@ -202,7 +206,7 @@ ul{
 }
 .blok_onder_opleidingen{
     width: 925px;
-    height: 520px;
+    min-height: 520px;
     margin: 6px;
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
