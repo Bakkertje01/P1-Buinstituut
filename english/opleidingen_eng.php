@@ -10,7 +10,7 @@ and open the template in the editor.
     <link rel="stylesheet" type="text/css" href="../style.css">
     <link rel="stylesheet" type="text/css" media="screen" href="../mobile.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <title></title>
+    <title>Education page</title>
 </head>
 <body>
 <div class = "website">
@@ -30,7 +30,10 @@ and open the template in the editor.
             </div></a>
         <a href = "musicpage_eng.php"><div class = "blok_boven_muziek"><h1>Musical arts</h1>
             </div></a>
-        <div class = "blok_onder_opleidingen"><p>Here you can choose which category of studies offered at the BU institute you want to display  </p>
+        <div class = "blok_onder_opleidingen">
+            <p> The programs are offered through a practical approach to sports and music.
+                Do you like to work on your development by doing, and not to read? Then these courses are a good choice for you. <br>
+                If you're considering to come and study at our university, sign up for a taster day, open day or personal conversation with one of the teachers.</p>
         </div>
 
 
