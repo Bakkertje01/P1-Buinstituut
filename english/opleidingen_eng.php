@@ -33,7 +33,7 @@ and open the template in the editor.
         <div class = "blok_onder_opleidingen">
             <p> The programs are offered through a practical approach to sports and music.
                 Do you like to work on your development by doing, and not to read? Then these courses are a good choice for you. <br>
-                If you consider to come and study at our university, sign up for a taster day, open day or personal conversation with one of the teachers.</p>
+                If you're considering to come and study at our university, sign up for a taster day, open day or personal conversation with one of the teachers.</p>
         </div>
 
 
