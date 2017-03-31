@@ -29,11 +29,11 @@ and open the template in the editor.
 
 
     <div class = "container">
-        <a href="../sportpage.php">
-            <div class = "blok_linksboven"><h1>Sports</h1>
+        <a href="sportpage_eng.php">
+            <div class = "blok_linksboven"><h1>Sport</h1>
             </div>
         </a>
-        <a href="../musicpage.php">
+        <a href="musicpage_eng.php">
             <div class = "blok_rechtsboven">
                 <h1>Musical arts</h1>
             </div>
@@ -45,7 +45,7 @@ and open the template in the editor.
                 One of the core values we uphold is that every student deserves a healthy and personal interaction with the teachers, this is possible Due to our small size as a institute.
                 Here at the BU institute we feature a State of the art study environment.</p>
             <br>
-            <p>We hope to see you at the Beth Underhill institute</p>
+            <p>We hope to see you at the Beth Underhill Institute</p>
 
 
 
