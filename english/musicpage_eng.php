@@ -19,9 +19,9 @@
     ?>
 
     <div class = "container">
-        <a href= "../popmusic.php"><div class = "blok_linksboven"><h1>Pop</h1>
+        <a href= "popmusic_eng.php"><div class = "blok_linksboven"><h1>Pop</h1>
             </div></a>
-        <a href= "../klassiek_page.php"><div class = "blok_rechtsboven"><h1>Classic</h1>
+        <a href= "classic_page_eng.php"><div class = "blok_rechtsboven"><h1>Classic</h1>
             </div></a>
         <div class = "blok_onder">
             <p>The Beth Underhill Institute has quickly grown to become an internationally respected university for her musical courses in the directions pop and classical.

@@ -25,7 +25,7 @@
             <a href="login_pagina.php" target="_self">Login</a>
         </li>
         <li>
-            <a href="index.php" target="_self">English</a>
+            <a href="english/index_eng.php" target="_self">English</a>
         </li>
     </ul>
 </div>
