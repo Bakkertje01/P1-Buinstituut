@@ -27,8 +27,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <br>
         Comment:<br><textarea title="comment" id="comment" name="comment" rows=4 cols=8></textarea>
         <br>
-        <input type="submit" name="submit">
-        <input type="reset" name="reset">
+        <input type="submit" value="submit" name="submit">
+        <input type="reset" value="reset" name="reset">
     </form>
 </div>
 
