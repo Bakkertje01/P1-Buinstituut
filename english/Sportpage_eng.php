@@ -31,7 +31,7 @@
                 However, this is often part-time. The jobs are not waiting for the graduates of other sports education.
                 For them it is just difficult to find a job that matches the training. For both groups, the salary on the low side.</p>
 
-             <h2>How are these sports programs structerd?</h2>
+             <h2>How are these sports programs structured?</h2>
             <p>
             <ul>
                 <li>Professional guidness by a certified Teacher/coach</li>
