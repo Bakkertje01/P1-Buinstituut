@@ -25,7 +25,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <br>
         e-mail:<br><input type="email" name="e-mail" placeholder="insert&nbsp;email">
         <br>
-        comment:<br><textarea title="comment" id="comment" name="comment" rows=4 cols=8></textarea>
+        Comment:<br><textarea title="comment" id="comment" name="comment" rows=4 cols=8></textarea>
         <br>
         <input type="submit" name="submit">
         <input type="reset" name="reset">
