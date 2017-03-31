@@ -34,19 +34,19 @@ and open the template in the editor.
             <p> With us you are trained as a versatile musician of high level, who can also reflect on their own practice. You will be getting a lot of stage experience in symphony and chamber orchestras,
                 choir and various ensembles. Inside but also outside the conservatory. You can get to your teaching qualification and module Enterprising Musician learn entrepreneurial skills you later
                 good will come in handy. </p>
-            <h2>Duur:</h2>
+            <h2>Duration:</h2>
             <p>The length of the course is 4 years.</p>
             <h2>Entry requirements:</h2>
-            <p>When you signed up for the program, you will receive an email invitation to the entrance examination, which take place in May and June. You'll do both theoretical and
-                practical, and when assessed with sufficient, the program committee will determine whether you get on the waiting list. </p>
+            <p>When you have signed up for the course, you will receive an email invitation to the entrance examination, which take place in May and June. You'll do both theoretical and
+                practical exams, and when assessed with sufficient, the program committee will determine whether you get on the waiting list. </p>
             <a href = "musicpageopenday_eng.php">
                 <div class="muziek_opendag">
-                    <img src="images/classicopenday_eng.jpg" alt="opendag">
+                    <img src="images/klassiekopendag.jpg" alt="openday">
                 </div></a>
 
             <a href = "classicmusicpageinfo_eng.php">
                 <div class="muziek_info">
-                    <img src="images/classicinfo.jpg_eng" alt="info">
+                    <img src="images/klassiekinfo.jpg" alt="info">
                 </div></a>
         </div>
 
