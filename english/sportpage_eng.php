@@ -24,7 +24,7 @@
         <a href="coaching_page_eng.php"><div class = "blok_rechtsboven"><h1>Coaching</h1>
             </div></a>
         <div class = "blok_onder">
-            <p>You can not stand still? You get the jitters of the idea of ​​not training for a week? If you choose a sports course, this will not be necessary.
+            <p>You can not stand still? Does the idea of not traning for a week give you jitters? If you choose a sports course, this will not be necessary.
                 You will exercise much and get actively involved with others in motion. You can become a sports teacher or coach.</p>
             <h2>How is the job market after these studies?</h2>
             <p>PE teachers are, as expected, primarily to work in schools. As a graduate of the BU institute its Relatively Easy to Find Work in your domain.

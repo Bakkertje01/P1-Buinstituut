@@ -39,7 +39,7 @@ and open the template in the editor.
             <h2>Entry requirements:</h2>
             <p>When you have signed up for the course, you will receive an email invitation to the entrance examination, which take place in May and June. You'll do both theoretical and
                 practical exams, and when assessed with sufficient, the program committee will determine whether you get on the waiting list. </p>
-            <a href = "musicpageopenday_eng.php">
+            <a href = "classicmusicpageopenday_eng.php">
                 <div class="muziek_opendag">
                     <img src="images/klassiekopendag.jpg" alt="openday">
                 </div></a>
