@@ -29,11 +29,11 @@ and open the template in the editor.
 
 
     <div class = "container">
-        <a href="../sportpage.php">
+        <a href="sportpage_eng.php">
             <div class = "blok_linksboven"><h1>Sports</h1>
             </div>
         </a>
-        <a href="../musicpage.php">
+        <a href="musicpage_eng.php">
             <div class = "blok_rechtsboven">
                 <h1>Musical arts</h1>
             </div>
