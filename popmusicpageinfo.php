@@ -5,7 +5,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="stylesheet" type="text/css" media="screen" href="mobile.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <title>Klassieke muziek informatie</title>
+    <title>Popmuziek informatie</title>
 </head>
 <body>
 <div class="website">
@@ -20,7 +20,7 @@
 
     <div class = "container">
         <div class = "blok_boven">
-            <h1>Pop muziek - Opleidingsinformatie</h1>
+            <h1>Popmuziek - Opleidingsinformatie</h1>
         </div>
         <div class = "blok_onder">
             <h2>Vakkenaanbod</h2>
