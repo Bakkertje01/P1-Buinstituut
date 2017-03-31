@@ -48,6 +48,15 @@
                 </p>
 
 
+            <a href = "Sportpageopendag.php">
+                <div class="muziek_opendag">
+                     <img src="images/sportopendag.jpg" alt="opendag">
+                </div></a>
+
+            <a href = "sportinfo.php">
+                <div class="sport_info">
+                    <img src="images/sportinfo.jpg" alt="info">
+                </div></a>
 
         </div>
     </div>
