@@ -16,11 +16,11 @@ and open the template in the editor.
 <div class = "website">
 
     <?php
-    include "header.php";
+    include "header_eng.php";
     ?>
 
     <?php
-    include "navbar.php";
+    include "navbar_eng.php";
     ?>
 
     <div class = "container">
@@ -54,7 +54,7 @@ and open the template in the editor.
 
 
     <?php
-    include "footer.php";
+    include "footer_eng.php";
     ?>
 
 </div>

@@ -14,7 +14,7 @@
 
         </div>
         <div class="top_opleiding">
-            <img src="../images/topopleiding.png" alt="best university 2016 ">
+            <img src="images/topopleiding.png" alt="best university 2016 ">
 
         </div>
 
