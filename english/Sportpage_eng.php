@@ -19,9 +19,9 @@
     ?>
 
     <div class = "container">
-        <a href="../leraar_page.php"><div class = "blok_linksboven"><h1>Teacher</h1>
+        <a href="leraar_page_eng.php"><div class = "blok_linksboven"><h1>Teacher</h1>
             </div></a>
-        <a href="../coaching_page.php"><div class = "blok_rechtsboven"><h1>Coaching</h1>
+        <a href="coaching_page_eng.php"><div class = "blok_rechtsboven"><h1>Coaching</h1>
             </div></a>
         <div class = "blok_onder">
             <h1>Course Sports</h1>
