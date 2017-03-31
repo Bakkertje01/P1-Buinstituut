@@ -30,7 +30,12 @@ and open the template in the editor.
                 </div></a>
                 <a href = "musicpage.php"><div class = "blok_boven_muziek"><h1>Muziek</h1>
                 </div></a>
-                <div class = "blok_onder_opleidingen"><p>Lorem Ipsum......test</p>
+                <div class = "blok_onder_opleidingen">
+                    <p>De opleidingen van sport en muziek worden via een praktijkgerichte benadering aangeboden.
+                    Werk jij graag aan je ontwikkeling door te doen, en niet door te lezen?
+                    Dan zijn deze opleidingen een goede keuze voor jou.<br>
+                    Als het jou iets lijkt om op onze hogeschool te komen studeren, meld je dan aan voor een meeloopdag, open dag of persoonlijk gesprek met één van de docenten.
+                    </p>
                 </div>
 
 

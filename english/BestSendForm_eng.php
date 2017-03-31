@@ -14,8 +14,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 ?>
 <div class="contactinfo">
     <div class="contactinfoB">
-        <p>Hierop kun je je contact informatie op achterlaten of om vragen te stellen.
-            Wij zullen proberen om zo snel mogelijk te antwoorden.</p>
+        <p>On this page you can leave your contact information or ask question regarding the university. We will try to contact you as soon as possible</p>
     </div>
 </div>
 <div class="Cform">
