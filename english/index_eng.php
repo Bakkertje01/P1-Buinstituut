@@ -7,8 +7,8 @@ and open the template in the editor.
 <html class="home-bg">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="mobile.css">
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="../mobile.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <meta name "viewport" content="width=device-width, initial-scale=1">
     <title>Home</title>
@@ -29,11 +29,11 @@ and open the template in the editor.
 
 
     <div class = "container">
-        <a href="sportpage.php">
+        <a href="../sportpage.php">
             <div class = "blok_linksboven"><h1>Sport</h1>
             </div>
         </a>
-        <a href="musicpage.php">
+        <a href="../musicpage.php">
             <div class = "blok_rechtsboven">
                 <h1>Musical arts</h1>
             </div>
