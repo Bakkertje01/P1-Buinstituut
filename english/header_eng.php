@@ -10,11 +10,11 @@
     <div class="header_content">
 
         <div class="header_img">
-            <img src="images/header.png" alt="logo-header.png">
+            <img src="../images/header.png" alt="logo-header.png">
 
         </div>
         <div class="top_opleiding">
-            <img src="images/topopleiding.png" alt="best university 2016 ">
+            <img src="../images/topopleiding.png" alt="best university 2016 ">
 
         </div>
 

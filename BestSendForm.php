@@ -14,7 +14,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 ?>
 <div class="contactinfo">
     <div class="contactinfoB">
-        <p>Hierop kun je je contact informatie op achterlaten of om vragen te stellen.
+        <p>Hier kun je je contact informatie achterlaten of om vragen te stellen.
             Wij zullen proberen om zo snel mogelijk te antwoorden.</p>
     </div>
 </div>
@@ -22,11 +22,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
         Naam:<br><input type="text" name="naam" placeholder="vul&nbsp;in&nbsp;naam">
         <br>
-        achternaam:<br><input type="text" name="achternaam" placeholder="vul&nbsp;in&nbsp;achternaam">
+        Achternaam:<br><input type="text" name="achternaam" placeholder="vul&nbsp;in&nbsp;achternaam">
         <br>
         e-mail:<br><input type="email" name="e-mail" placeholder="vul&nbsp;in&nbsp;email">
         <br>
-        comment:<br><textarea title="comment" id="comment" name="comment" rows=4 cols=8></textarea>
+        Comment:<br><textarea title="comment" id="comment" name="comment" rows=4 cols=8></textarea>
         <br>
         <input type="submit" name="submit">
         <input type="reset" name="reset">

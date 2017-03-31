@@ -12,7 +12,7 @@
         <div>
             <a href="https://www.facebook.com/">
                 <div class="social_plaatje">
-                    <img src="images/facebook.png" alt="logo-header.png">
+                    <img src="../images/facebook.png" alt="logo-header.png">
                 </div>
 
             </a>
@@ -20,14 +20,14 @@
         <div>
             <a href="https://www.twitter.com">
                 <div class="social_plaatje">
-                    <img src="images/twitter.png" alt="logo-header.png">
+                    <img src="../images/twitter.png" alt="logo-header.png">
             </a>
         </div>
 
         <div>
             <a href="contact_eng.php" target="_self">
                 <div class="social_plaatje">
-                    <img src="images/mail.png" alt="logo-header.png">
+                    <img src="../images/mail.png" alt="logo-header.png">
             </a>
         </div>
         <div class="rss">
