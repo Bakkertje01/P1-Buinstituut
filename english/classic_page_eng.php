@@ -24,19 +24,19 @@ and open the template in the editor.
     ?>
 
     <div class = "container">
-        <div class = "blok_boven"><h1> Music-Classical music </h1>
+        <div class = "blok_boven"><h1> Music - Classical music </h1>
         </div>
 
         <div class = "blok_onder">
             <p>When you choose the program Classical Music choose a life with your instrument or your stem.Een passion where you are often working on for years.
                 You are driven, you want the highest musical level and make your profession of music. studying classical music at the Beth Underhill Institute than an excellent choice.</p>
             <br>
-            <p> With us you are trained as a versatile musician of high level, which can also reflect on their own practice. You're doing a lot of stage experience in symphony and chamber orchestras,
+            <p> With us you are trained as a versatile musician of high level, who can also reflect on their own practice. You will be getting a lot of stage experience in symphony and chamber orchestras,
                 choir and various ensembles. Inside but also outside the conservatory. You can get to your teaching qualification and module Enterprising Musician learn entrepreneurial skills you later
                 good will come in handy. </p>
             <h2>Duur:</h2>
             <p>The length of the course is 4 years.</p>
-            <h2>Entry Requirements:</h2>
+            <h2>Entry requirements:</h2>
             <p>When you signed up for the program, you will receive an email invitation to the entrance examination, which take place in May and June. You'll do both theoretical and
                 practical, and when assessed with sufficient, the program committee will determine whether you get on the waiting list. </p>
             <a href = "musicpageopenday_eng.php">

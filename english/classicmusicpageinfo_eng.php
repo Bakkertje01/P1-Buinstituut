@@ -5,7 +5,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="stylesheet" type="text/css" media="screen" href="mobile.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <title>Classic music information</title>
+    <title>Classical music information</title>
 </head>
 <body>
 <div class="website">
@@ -20,21 +20,21 @@
 
     <div class="container">
         <div class="blok_boven">
-            <h1>Klassieke muziek - Opleidingsinformatie</h1>
+            <h1>Classical music - Course information</h1>
         </div>
         <div class="blok_onder">
             <h2>Hoofdvakken</h2>
             <p>De hoofdvakken die worden aangeboden zijn:</p>
             <ul>
-                <li>Zang</li>
-                <li>Piano, orgel, klavecimbel*</li>
-                <li>Fluit, hobo, klatinet, fagot, saxofoon</li>
-                <li>Hoorn, trompet, trombone, tuba</li>
-                <li>Slagwerk, harp, gitaar</li>
-                <li>Viool, altviool, cello, contrabas</li>
+                <li>Singing</li>
+                <li>Piano, organ, harpsichord*</li>
+                <li>Flute, oboe, klarinet, bassoon, saxophone</li>
+                <li>Horn, trumpet, trombone, tuba</li>
+                <li>Percussion, harp, guitar</li>
+                <li>Violin, viola, cello, double bass</li>
             </ul>
             <br>
-            <p>* If your study piano, organ and harpsichord you also get lessons on other keyboard instruments such as fortepiano and harmonium. </p>
+            <p>* If you are going to be studying piano, organ and harpsichord you will also get lessons in other keyboard instruments such as fortepiano and harmonium. </p>
             <h2>Propedeuse</h2>
             <p>The main compartment is central throughout
                 your studies. The first year is primarily exploratory in nature. Besides your major, practical projects and follow some theoretical subjects. </p>

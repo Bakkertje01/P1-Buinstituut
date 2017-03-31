@@ -39,7 +39,7 @@ and open the template in the editor.
 			if (isset($_POST['username'], $_POST['password'])) {
 				if ($_POST['username'] == $username && $_POST['password'] == $password) {
 					?>
-                    <form action="upload_en.php" method="post" enctype="multipart/form-data">
+                    <form action="upload_eng.php" method="post" enctype="multipart/form-data">
                         <p><label for="fileToUpload">Select image:</label></p>
                         <p><input type="file" name="fileToUpload" id="fileToUpload"></p>
                         <p><input type="submit" value="Upload Image" name="submit"></p>

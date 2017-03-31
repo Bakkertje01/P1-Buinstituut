@@ -5,7 +5,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="stylesheet" type="text/css" media="screen" href="mobile.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <title>Klassieke muziek informatie</title>
+    <title>Open day programme</title>
 </head>
 <body>
 <div class="website">
