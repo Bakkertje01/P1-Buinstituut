@@ -27,7 +27,17 @@ and open the template in the editor.
         <div class = "blok_boven"><h1>Sportleraar</h1>
         </div>
 
-        <div class = "blok_onder"><p>Lorem Ipsum......test</p>
+        <div class = "blok_onder">
+            <p>Groepen kinderen en jongeren in beweging krijgen én houden.</p>
+            <p> Dat is jouw taak als eerstegraads Docent Lichmelijke Opvoeding  BIj het BU Instituut.</p>
+            <p> Jij maakt bewegen op een verantwoorde manier leuk in verschillende vormen.</p>
+            <p> Zo bind en boei je jongeren.</p>
+            <h2>Duur</h2>
+            <p>De duur van de opleiding bedraagt 4 jaar.</p>
+            <h2>Vooropleidingseisen</h2>
+            <p>Diploma vmbo:theoretische leerweg Of een diploma op mbo-niveau 4</p>
+            <p>voor leerlingen die 21+ examen hebben afgelegd moet er wel eerst een toelatings examen worden afgenomen.</p>
+
         </div>
 
     </div>

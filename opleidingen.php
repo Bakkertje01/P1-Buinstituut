@@ -30,7 +30,10 @@ and open the template in the editor.
                 </div></a>
                 <a href = "musicpage.php"><div class = "blok_boven_muziek"><h1>Muziek</h1>
                 </div></a>
-                <div class = "blok_onder_opleidingen"><p>Lorem Ipsum......test</p>
+                <div class = "blok_onder_opleidingen"><p>Het BU instituut is een ambitieuze hogeschool in een dynamische omgeving.</p>
+                    <p> Als University of Applied Sciences verzorgen we onderwijs en verrichten we onderzoek.</p>
+                    <p> We leiden aankomende professionals op die gewild zijn op de arbeidsmarkt en zijn verbonden met de regio Drenthe.</p>
+                    <p> De verbinding tussen onderwijs, onderzoek en de beroepspraktijk versterkt onze impact in de regio.</p>
                 </div>
 
 
