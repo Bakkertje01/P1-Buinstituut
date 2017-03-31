@@ -5,7 +5,7 @@
     <link rel="stylesheet" type="text/css" href="../style.css">
     <link rel="stylesheet" type="text/css" media="screen" href="../mobile.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <title>Sports opendag</title>
+    <title>Sports openday</title>
     </head>
     <body>
         <div class="website">
