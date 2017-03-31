@@ -10,7 +10,7 @@ and open the template in the editor.
     <link rel="stylesheet" type="text/css" href="../style.css">
     <link rel="stylesheet" type="text/css" media="screen" href="../mobile.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <title>Coaching </title>
+    <title>Coaching</title>
 </head>
 <body>
 <div class = "website">
@@ -39,9 +39,11 @@ and open the template in the editor.
 		and who are looking to make the next step in their career as a coach.</p>
 		
 		<h2>Training / admission</h2>
-		<p>An MBO Level 3 or 4 degrees in sports coaching</p>
-		<p>HAVO / VWO diploma</p>
-		<p>A secondary school 4 transition proof</p>
+		<ul>
+            <li>An MBO Level 3 or 4 degrees in sports coaching</li>
+            <li>HAVO / VWO diploma</li>
+            <li>A secondary school 4 transition proof</li>
+        </ul>
 		
 		<h2>Expensive and time frame</h2>
 		<p>This program is only offered full-time and lasts 4 years</p>

@@ -40,9 +40,11 @@ and open the template in the editor.
 		om de volgende stap in hun carriere als coach te maken.</p>
 		
 		<h2>Vooropleiding/toelatingseisen</h2>
-		<p>Een MBO Niveau 3 of 4 diploma in sportcoaching</p>
-		<p>Een havo/vwo diploma</p>
-		<p>Een havo 4 overgangsbewijs</p>
+		<ul>
+            <li>Een MBO Niveau 3 of 4 diploma in sportcoaching</li>
+		    <li>Een havo/vwo diploma</li>
+            <li>Een havo 4 overgangsbewijs</li>
+        </ul>
 		
 		<h2>Duur en tijdsbestek</h2>
 		<p>Deze opleiding wordt alleen voltijd aangeboden en duurt 4 jaar</p>
