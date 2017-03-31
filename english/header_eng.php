@@ -14,12 +14,12 @@
 
         </div>
         <div class="top_opleiding">
-            <img src="images/topopleiding.png" alt="best university 2016 ">
+            <img src="images/topopleiding.png" alt="best institute 2016 ">
 
         </div>
 
-        <div class="header_title">BU universiy</div>
-        <div class="subheader">for Sport and musical arts</div>
+        <div class="header_title">BU institute</div>
+        <div class="subheader">For Sports and Musical arts</div>
 
     </div>
 </div>

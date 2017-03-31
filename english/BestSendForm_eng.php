@@ -14,7 +14,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 ?>
 <div class="contactinfo">
     <div class="contactinfoB">
-        <p>On this page you can leave your contact information or ask question regarding the university. We will try to contact you as soon as possible</p>
+        <p>On this page you can leave your contact information or ask question regarding the BU institute. We will try to contact you as soon as possible</p>
     </div>
 </div>
 <div class="Cform">
