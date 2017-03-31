@@ -48,10 +48,7 @@ and open the template in the editor.
                     <p>- Je doet onderzoek en geeft advies aan kinderen, jongeren, ouders en verzorgers.</p>
 
 
-
-
-
-                </div>
+               </div>
 
             </div>
 
