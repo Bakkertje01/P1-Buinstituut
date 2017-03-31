@@ -12,7 +12,7 @@
             <a href="index_eng.php" target="_self">Home</a>
         </li>
         <li>
-            <a href="opleidingen_eng.php" target="_self">Courses</a>
+            <a href="opleidingen_eng.php" target="_self">Education</a>
         </li>
         <li>
             <a href="media_eng.php" target="_self">Media</a>
