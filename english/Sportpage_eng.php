@@ -24,7 +24,6 @@
         <a href="coaching_page_eng.php"><div class = "blok_rechtsboven"><h1>Coaching</h1>
             </div></a>
         <div class = "blok_onder">
-            <h1>Course Sports</h1>
             <p>You can not stand still? You get the jitters of the idea of ​​not training for a week? If you choose a sports course, this will not be necessary.
                 You will exercise much and get actively involved with others in motion. You can become a sports teacher or coach.</p>
             <h2>How is the job market after these studies?</h2>
@@ -36,16 +35,16 @@
             <p>
             <ul>
                 <li>Professional guidness by a certified Teacher/coach</li>
-                <li>Personal Guideness</li>
+                <li>Personal guideness</li>
                 <li>Positive criticisim by means of issues</li>
                 <li>S.M.A.R.T. use objectives</li>
                 <li>Someone you can always fall back on</li>
-                <li>practice Experience</li>
+                <li>Practice experience</li>
             </ul>
             </p>
             <br>
             <p><b>Raymond Blankestijn</b></p>
-            <p>Principal Beth Underhill Instituut.</p>
+            <p>Principal Beth Underhill Institute</p>
 
 
 
