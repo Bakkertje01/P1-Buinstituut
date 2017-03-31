@@ -30,7 +30,7 @@ and open the template in the editor.
 
     <div class = "container">
         <a href="sportpage_eng.php">
-            <div class = "blok_linksboven"><h1>Sport</h1>
+            <div class = "blok_linksboven"><h1>Sports</h1>
             </div>
         </a>
         <a href="musicpage_eng.php">
