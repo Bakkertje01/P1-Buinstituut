@@ -34,9 +34,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 
 <?php
-$Nfile = fopen("mail_info_eng.txt", "w");
+$Nfile = fopen("../mail_info_eng.txt", "w");
 if (isset($_POST["submit"])) {
-    $Nfile = fopen("mail_info.txt", "wb");
+    $Nfile = fopen("../mail_info.txt", "wb");
     $naamsend = $_POST["naam"]; //naam verzender
     $achternaamSend = $_POST["achternaam"]; //achernaam verzender
     $emailSend = $_POST["e-mail"];  //email verzender
