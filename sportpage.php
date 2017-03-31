@@ -44,7 +44,7 @@
 
                     <br>
                     <p><b>Raymond Blankestijn</b><br>
-                    Directeur Beth Underhill Instituut.</p>
+                    Directeur Beth Underhill Instituut</p>
                 </p>
 
 

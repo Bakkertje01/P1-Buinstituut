@@ -10,7 +10,7 @@ and open the template in the editor.
         <link rel="stylesheet" type="text/css" href="../style.css">
         <link rel="stylesheet" type="text/css" media="screen" href="../mobile.css">
         <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-        <title>Media login</title>
+        <title>Login</title>
     </head>
     <body>
         <div class = "website">
@@ -31,7 +31,7 @@ and open the template in the editor.
                     <div class="loginPrompt">
                         <form action="image_upload_eng.php" method="POST">
                             <p><label for="username">Username: </label><input type="text" id="username" name="username"/></p>
-                            <p><label for="password">password: </label><input type="password" id="password" name="password"/></p>
+                            <p><label for="password">Password: </label><input type="password" id="password" name="password"/></p>
                             <p><input type="submit" value="Log in"/></p>
                         </form>
 
