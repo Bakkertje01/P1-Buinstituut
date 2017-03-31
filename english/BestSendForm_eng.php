@@ -25,18 +25,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <br>
         e-mail:<br><input type="email" name="e-mail" placeholder="insert&nbsp;email">
         <br>
-        comment:<br><textarea title="comment" id="comment" name="comment" rows=4 cols=8></textarea>
+        Comment:<br><textarea title="comment" id="comment" name="comment" rows=4 cols=8></textarea>
         <br>
-        <input type="submit" name="submit">
-        <input type="reset" name="reset">
+        <input type="submit" value="submit" name="submit">
+        <input type="reset" value="reset" name="reset">
     </form>
 </div>
 
 
 <?php
-$Nfile = fopen("mail_info_eng.txt", "w");
+$Nfile = fopen("../mail_info_eng.txt", "w");
 if (isset($_POST["submit"])) {
-    $Nfile = fopen("mail_info.txt", "wb");
+    $Nfile = fopen("../mail_info.txt", "wb");
     $naamsend = $_POST["naam"]; //naam verzender
     $achternaamSend = $_POST["achternaam"]; //achernaam verzender
     $emailSend = $_POST["e-mail"];  //email verzender

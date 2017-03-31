@@ -7,8 +7,8 @@ and open the template in the editor.
 <html class="sport-bg">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="mobile.css">
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="../mobile.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <title>Coaching </title>
 </head>
@@ -16,11 +16,11 @@ and open the template in the editor.
 <div class = "website">
 
     <?php
-    include "header.php";
+    include "header_eng.php";
     ?>
 
     <?php
-    include "navbar.php";
+    include "navbar_eng.php";
     ?>
 
     <div class = "container">
@@ -33,7 +33,7 @@ and open the template in the editor.
 		develop deep insight into your skills as a professional coach.</p>
 		<p>A good sports coach is more than just a coach, but also a contact, and psychologist.</p>
 		<p>Want to make the step to the coach to make your craft hobby of yours, this is the course for you.</p>
-		<br>
+
 		<h2>For who?</h2>
 		<p>For anyone who wants to develop as a professional coach. This course is ideal for those who are already working as (semi) professional coach, 
 		and who are looking to make the next step in their career as a coach.</p>
@@ -57,7 +57,7 @@ and open the template in the editor.
 
 
     <?php
-    include "footer.php";
+    include "footer_eng.php";
     ?>
 
 </div>

@@ -9,7 +9,7 @@ To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
-<html>
+<html class="home-bg">
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="../style.css">
@@ -21,11 +21,11 @@ and open the template in the editor.
 <div class = "website">
 
 	<?php
-	include "header.php";
+	include "header_eng.php";
 	?>
 
 	<?php
-	include "navbar.php";
+	include "navbar_eng.php";
 	?>
 
     <div class = "container">
@@ -58,7 +58,7 @@ and open the template in the editor.
 
 
 <?php
-include "footer.php";
+include "footer_eng.php";
 ?>
 
 </div>

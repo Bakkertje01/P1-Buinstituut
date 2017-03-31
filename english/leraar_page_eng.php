@@ -7,8 +7,8 @@ and open the template in the editor.
 <html class="sport-bg">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="mobile.css">
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="../mobile.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <title></title>
 </head>
@@ -16,15 +16,15 @@ and open the template in the editor.
 <div class = "website">
 
     <?php
-    include "header.php";
+    include "header_eng.php";
     ?>
 
     <?php
-    include "navbar.php";
+    include "navbar_eng.php";
     ?>
 
     <div class = "container">
-        <div class = "blok_boven"><h1>Sport Teacher</h1>
+        <div class = "blok_boven"><h1>Sports Teacher</h1>
         </div>
 
         <div class = "blok_onder">
@@ -43,7 +43,7 @@ and open the template in the editor.
     </div>
 
     <?php
-    include "footer.php";
+    include "footer_eng.php";
     ?>
 
 </div>
