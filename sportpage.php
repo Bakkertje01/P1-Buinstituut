@@ -53,8 +53,8 @@
                      <img src="images/sportopendag.jpg" alt="opendag">
                 </div></a>
 
-            <a href = "sportinfo.php">
-                <div class="sport_info">
+            <a href = "Sportinfo.php">
+                <div class="muziek_opendag">
                     <img src="images/sportinfo.jpg" alt="info">
                 </div></a>
 
