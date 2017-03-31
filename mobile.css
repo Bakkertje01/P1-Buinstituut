@@ -243,4 +243,12 @@ and open the template in the editor.
         height: 71px;
         border: 2px solid white;
     }
+    .blok_boven_sport:hover {
+        width: 921px;
+        height: 71px;
+        border: 2px solid white;
+    }
+    img.photoMedia:hover {
+        border: 2px solid black;
+    }
 }
