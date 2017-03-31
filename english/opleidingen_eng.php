@@ -24,7 +24,7 @@ and open the template in the editor.
     ?>
 
     <div class = "container">
-        <div class = "blok_boven"><h1>Educations</h1>
+        <div class = "blok_boven"><h1>Courses</h1>
         </div>
         <a href = "sportpage_eng.php"><div class = "blok_boven_sport"><h1>Sports</h1>
             </div></a>
