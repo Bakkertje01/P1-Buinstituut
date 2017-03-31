@@ -25,7 +25,7 @@
             <a href="login_page_eng.php" target="_self">Login</a>
         </li>
         <li>
-            <a href="index_eng.php" target="_self">English</a>
+            <a href="../index.php" target="_self">Dutch</a>
         </li>
     </ul>
 </div>
