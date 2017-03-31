@@ -19,7 +19,7 @@
         </div>
 
         <div class="header_title">BU institute</div>
-        <div class="subheader">for Sports and musical arts</div>
+        <div class="subheader">For Sports and Musical arts</div>
 
     </div>
 </div>
