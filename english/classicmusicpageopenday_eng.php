@@ -25,8 +25,8 @@
             <p>Want to know if a conservatory is for you? Come to one of the open days of the Beth Underhill Institute.</p>
             ​​<p>Everything you need to know about studying at Beth Underhill Institute </p>
             <p>For both general information about studying at the conservatory aswell as more specific questions you can visit the open days. Teachers and students are available throughout the day to answer all your
-                questions. All doors will be open. Of course we don't just provide information, there is also varied music with jazz and classical
-                music. And it is possible to play informally with the teacher of your choice. So don't only bring your parents, brothers and sisters, but also bring your instrument! </p>
+                questions. All doors will be open. Of course we don't just provide information, there is also varied music with jazz and classical music.
+                And it is possible to play informally with the teacher of your choice. So don't only bring your parents, brothers and sisters, but also bring your instrument!</p>
 
             <h2>Day programs</h2>
             <h3>Classical music / Management</h3>
