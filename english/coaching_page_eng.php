@@ -33,7 +33,7 @@ and open the template in the editor.
 		develop deep insight into your skills as a professional coach.</p>
 		<p>A good sports coach is more than just a coach, but also a contact, and psychologist.</p>
 		<p>Want to make the step to the coach to make your craft hobby of yours, this is the course for you.</p>
-		<br>
+
 		<h2>For who?</h2>
 		<p>For anyone who wants to develop as a professional coach. This course is ideal for those who are already working as (semi) professional coach, 
 		and who are looking to make the next step in their career as a coach.</p>
