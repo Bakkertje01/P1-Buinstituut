@@ -7,232 +7,240 @@ and open the template in the editor.
     Created on : 24-mrt-2017, 12:02:57
     Author     : Ernst-Jan Bakker
 */
+/*HTML*/
 @media screen and (max-width: 980px) {
     .sport-bg {
         background: none;
-        width:100%;
+        width: 100%;
     }
+
     .music-bg {
         background: none;
-        width:100%;
+        width: 100%;
     }
+
     .home-bg {
         background: none;
-        width:100%;
+        width: 100%;
 
     }
-}
-@media screen and (max-width: 980px) {
+
     body {
-        width: 980px
+        width: 100%;
     }
 }
+
+/* END HTML*/
+
+/*HEADER*/
 @media screen and (max-width: 980px) {
     .header {
-        width:100%;
-        height:100px;
-        background-color:rgba(0, 0, 0, 0.6);
+        width: 100%;
+        height: 100px;
+        background-color: rgba(0, 0, 0, 0.6);
     }
-}
-@media screen and (max-width: 980px) {
+
     .header_content {
-        margin-left: 5%;
         color: white;
-        width:100%;
+        width: 100%;
         height: 100%;
-        margin:0 auto;
+        margin: 0 auto;
     }
-}
-@media screen and (max-width: 980px) {
-    .container {
-        color: white;
-        background-color:rgba(0, 0, 0, 0.6);
-        width:100%;
-        height: 800px;
-        margin-top: 10px;
+
+    .top_opleiding img {
+        display: none;
     }
-}
-@media screen and (max-width: 980px) {
-    .blok_linksboven{
-        width: 98%;
-        height: 10%;
-        margin: 1%;
-        background-color: rgba(0, 102, 204, 0.6);
-        float: left;
-    }
-}
-@media screen and (max-width: 980px) {
-    .blok_boven{
-        width: 98%;
-        height: 10%;
-        margin: 1%;
-        background-color: rgba(0, 102, 204, 0.6);
-        float: left;
-    }
-}
-@media screen and (max-width: 980px) {
-    .blok_boven_muziek{
-        width: 98%;
-        height: 10%;
-        margin: 1%;
-        background-color: rgba(0, 102, 204, 0.6);
-        float: left;
-    }
-}
-@media screen and (max-width: 980px) {
-    .blok_boven_sport{
-        width: 98%;
-        height: 10%;
-        margin: 1%;
-        background-color: rgba(0, 102, 204, 0.6);
-        float: left;
-    }
-}
-@media screen and (max-width: 980px) {
-    .blok_rechtsboven{
-        width: 98%;
-        height: 10%;
-        margin: 1%;
-        background-color: rgba(0, 102, 204, 0.6);
-        float: left;
-    }
-}
-@media screen and (max-width: 980px) {
-    .blok_onder{
-        width: 98%;
-        height: 73%;
-        margin: 1%;
-        background-color: rgba(0, 102, 204, 0.6);
-        float: left;
-    }
-}
-@media screen and (max-width: 980px) {
-    .blok_onder_opleidingen{
-        width: 98%;
-        height: 60%;
-        margin: 1%;
-        background-color: rgba(0, 102, 204, 0.6);
-        float: left;
-    }
-}
-@media screen and (max-width: 980px) {
+
     .header_img img {
-        width:100px;
+        width: 100px;
         height: 100px;
     }
 }
+/*MENU*/
 @media screen and (max-width: 980px) {
-    .top_opleiding img {
-        display:none;
+
+}
+
+
+/*blokjes*/
+@media screen and (max-width: 980px) {
+    .container {
+        color: white;
+        background-color: rgba(0, 0, 0, 0.6);
+        width: 100%;
+        min-height: 800px;
+        margin-top: 10px;
+        overflow: hidden;
+    }
+
+    .blok_linksboven {
+        width: 98%;
+        height: 75px;
+        margin: 1%;
+        background-color: rgba(0, 102, 204, 0.6);
+        float: left;
+    }
+
+    .blok_boven {
+        width: 98%;
+        height: 75px;
+        margin: 1%;
+        background-color: rgba(0, 102, 204, 0.6);
+        float: left;
+    }
+
+    .blok_boven_muziek {
+        width: 98%;
+        height: 75px;
+        margin: 1%;
+        background-color: rgba(0, 102, 204, 0.6);
+        float: left;
+    }
+
+    .blok_boven_sport {
+        width: 98%;
+        height: 75px;
+        margin: 1%;
+        background-color: rgba(0, 102, 204, 0.6);
+        float: left;
+    }
+
+    .blok_rechtsboven {
+        width: 98%;
+        height: 75px;
+        margin: 1%;
+        background-color: rgba(0, 102, 204, 0.6);
+        float: left;
+    }
+
+    .blok_onder {
+        width: 98%;
+        min-height: 700px;
+        margin: 1%;
+        background-color: rgba(0, 102, 204, 0.6);
+        float: left;
+        overflow: hidden;
+    }
+
+    .blok_onder_opleidingen {
+        width: 98%;
+        min-height: 520px;
+        margin: 1%;
+        background-color: rgba(0, 102, 204, 0.6);
+        float: left;
     }
 }
+/*contact*?
+ */
 @media screen and (max-width: 980px) {
-    .weer {
-        display:none;
+    .adres {
+        float: left;
+        height: 100%;
+        width: 90%;
+        background-color: orange;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        border: 1px solid black;
+
+    }
+    .Cform {
+        height: 200px;
+        width: 280px;
+        float: left;
+        margin-left: 20px;
+        margin-top: 60px;
+        background-color: orange;
+        border: 1px solid black;
+    }
+    .adres_gegevens {
+        float: left;
+        height: 100%;
+        width: 400px;
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+    .kaartje iframe {
+        border: 1px solid black;
+        float: left;
+        margin-top: 20px;
+        margin-left: 10px;
+        margin-bottom: 20px;
+    }
+    .contactinfo {
+        border: 1px solid black;
+        color: black;
+
+    }
+    .contactinfoB {
+        border: 1px solid black;
+        color: black;
+
     }
 }
+}
+/*TEXT*/
 @media screen and (max-width: 980px) {
     p.header_title {
         color: white;
         font-size: 14px;
     }
-}
-@media screen and (max-width: 980px) {
+
     p.subheader {
         color: white;
         font-size: 14px;
     }
 }
+
+/*FOOTER*/
 @media screen and (max-width: 980px) {
-    .navbar {
-        width:100%;
-        height: 66px;
-        background-color:rgba(0, 0, 0, 0.6);
+    .footer {
+        width: 100%;
+        height: 100% px;
+        background-color: rgba(0, 0, 0, 0.6);
         margin: 0 auto;
     }
-}
 
-@media screen and (max-width: 980px) {
-    ul{
-        float: left;
-        list-style-type: none;
-        height: 66px;
-        width:100%;
-    }
-}
-@media screen and (max-width: 980px) {
-    li{
-        list-style-type: none;
-    }
-}
-@media screen and (max-width: 980px) {
-    li a.active {
-        background-color: #30C4E9;
+    .footer_content {
+        width: 100% px;
+        height: 60px;
+        margin-top: 5px;
         color: white;
     }
-}
-@media screen and (max-width: 980px) {
-    li a{
-        display: block;
-        color: white;
-        text-align: center;
-        text-decoration: none;
-    }
-}
-@media screen and (max-width: 980px) {
-    li a:hover {
-        color: #30C4E9;
-        background-color: lightgrey;
-    }
-}
-@media screen and (max-width: 980px) {
-    li1{
-        list-style-type: none;
 
-    }
-}
-@media screen and (max-width: 980px) {
-    li1 a.active {
-        background-color: #30C4E9;
-        color: white;
-    }
-}
-@media screen and (max-width: 980px) {
-    li1 a{
-        display: block;
-        color: white;
-        text-decoration: none;
-    }
-}
-@media screen and (max-width: 980px) {
-    li1 a:hover {
-        color: #30C4E9;
-        background-color: lightgrey;
-    }
-}
-
-@media screen and (max-width: 980px) {
-    .footer{
-        width:100%;
-        height:260px;
-        background-color:rgba(0, 0, 0, 0.6);
-        margin:0 auto;
-    }
-}
-@media screen and (max-width: 980px) {
-    .footer_content{
-        width:100%;
-        height:260px;
-        color: white;
-        margin-left: 5px;
-    }
-}
-
-@media screen and (max-width: 980px) {
-    .social_plaatje img{
+    .social_plaatje img {
         width: 50px;
         height: 50px;
         margin-top: 5px;
         float: left;
+    }
+
+    .weer {
+        display: none;
+    }
+
+    .rss {
+        display: none;
+    }
+}
+
+/*NOT*/
+@media screen and (min-width: 980px) {
+    .blok_linksboven:hover {
+        border: 2px solid white;
+        width: 453px;
+        height: 71px;
+    }
+
+    .blok_rechtsboven:hover {
+        border: 2px solid white;
+        width: 452px;
+        height: 71px;
+    }
+
+    .blok_boven_muziek:hover {
+        width: 921px;
+        height: 71px;
+        border: 2px solid white;
     }
 }
