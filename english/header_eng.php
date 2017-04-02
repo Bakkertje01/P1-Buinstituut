@@ -10,12 +10,12 @@
     <div class="header_content">
 
         <div class="header_img">
-            <img src="../images/header.png" alt="logo-header.png">
-
+           <a href="index_eng.php"> <img src="../images/header.png" alt="logo-header.png">
+           </a>
         </div>
         <div class="top_opleiding">
-            <img src="images/topopleiding.png" alt="best institute 2016 ">
-
+           <a href="https://www.keuzegids.org/" target="_blank"> <img src="images/topopleiding.png" alt="best institute 2016 ">
+           </a>
         </div>
 
         <div class="header_title">BU Institute</div>

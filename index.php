@@ -10,7 +10,6 @@ and open the template in the editor.
         <link rel="stylesheet" type="text/css" href="style.css">
         <link rel="stylesheet" type="text/css" media="screen" href="mobile.css">
         <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-		<meta name "viewport" content="width=device-width, initial-scale=1">
         <title>Home</title>
     </head>
     <body>

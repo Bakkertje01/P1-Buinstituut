@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-    <title>send&nbsp;form</title>
+    <title>Formulier</title>
 </head>
 <body>
 <?php
