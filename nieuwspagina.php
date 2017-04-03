@@ -33,7 +33,7 @@
                 <p>“We zijn met ons netwerk al vijfentwintig jaar bezig met het verbeteren van de aansluiting van het voortgezet onderwijs op het hoger onderwijs,” vertelt Klaas Wybo van der Hoek, CvB-lid van Stenden aan ScienceGuide.
                     “Dat heeft heel veel opgeleverd, maar op een gegeven moment moet je constateren dat er geen winst meer uit te halen is. Dan moet je naar andere dingen gaan kijken.”</p>
                 <br>
-                <a href="http://www.scienceguide.nl/201703/extra-jaar-tussen-havo-en-hbo.aspx"><p>Lees hier het hele artikel van ScienceGuide</p></a>
+                <p><a href="http://www.scienceguide.nl/201703/extra-jaar-tussen-havo-en-hbo.aspx">Lees hier het hele artikel van ScienceGuide</a></p>
             </div>
         </div>
             <?php
