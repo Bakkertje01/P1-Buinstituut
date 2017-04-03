@@ -1,9 +1,4 @@
-<!doctype html>
-<html>
-<head>
-    <title>Formulier</title>
-</head>
-<body>
+
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$emailCom = $_POST["comment"];//$texthier = $_POST["comment"];
@@ -52,5 +47,3 @@ if (isset($_POST["submit"])) {
 
 
 
-</body>
-</html>

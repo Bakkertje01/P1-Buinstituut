@@ -43,6 +43,6 @@ and open the template in the editor.
     <?php
     include "footer_eng.php";
     ?>
-</div>
+
 </body>
 </html>
