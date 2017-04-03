@@ -296,7 +296,7 @@ img.photoMedia {
 
 /*CONTACT*/
 .Cform {
-    height: 200px;
+    height: 100%;
     width: 280px;
     float: left;
     margin-left: 80px;
