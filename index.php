@@ -23,10 +23,6 @@ and open the template in the editor.
                 include "navbar.php";
             ?>
 
-
-
-
-
             <div class = "container">
                 <a href="sportpage.php">
                     <div class = "blok_linksboven"><h1>Sport</h1>
@@ -38,15 +34,20 @@ and open the template in the editor.
                     </div>
                 </a>
                 <div class = "blok_onder">
-                    <p>Het Beth Underhill Instituut in Hoogeveen biedt opleidingen in de richtingen muziek en sport aan op een hoog niveau.
-                    Met een praktijkgerichte en persoonlijke aanpak leiden we hoogopgeleide professionals op.
-                    Daarnaast werkt het Beth Underhill Instituut aan innovaties in de muziek- en sportbranches en blijft altijd op de hoogte van eventuele mutaties.
-                    Doordat wij een relatief kleine hogeschool zijn, is persoonlijke aanpak één van onze speerpunten.
-                    Daarnaast beschikken wij over State of the art leeromgevingen.</p>
-                    <br>
-                    <p>Graag tot ziens op het Beth Underhill Instituut</p>
-
-
+                    <div class = "blok_tekst">
+                        <p>Het Beth Underhill Instituut in Hoogeveen biedt opleidingen in de richtingen muziek en sport aan op een hoog niveau.
+                            Met een praktijkgerichte en persoonlijke aanpak leiden we hoogopgeleide professionals op.
+                            Daarnaast werkt het Beth Underhill Instituut aan innovaties in de muziek- en sportbranches en blijft altijd op de hoogte van eventuele mutaties.
+                            Doordat wij een relatief kleine hogeschool zijn, is persoonlijke aanpak één van onze speerpunten.
+                            Daarnaast beschikken wij over State of the art leeromgevingen.</p>
+                        <br>
+                        <p>Graag tot ziens op het Beth Underhill Instituut</p>
+                    </div>
+                    <div class = "blok_nieuws">
+                        <h1>Headlines</h1>
+                        <br>
+                        <p><a href="nieuwspagina.php">Extra jaar tussen havo en hbo</a></p>
+                    </div>
 
                 </div>
 
