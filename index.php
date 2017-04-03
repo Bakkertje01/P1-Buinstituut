@@ -34,7 +34,7 @@ and open the template in the editor.
                     </div>
                 </a>
                 <div class = "blok_onder">
-                    <div class = "blok_tekst">
+
                         <p>Het Beth Underhill Instituut in Hoogeveen biedt opleidingen in de richtingen muziek en sport aan op een hoog niveau.
                             Met een praktijkgerichte en persoonlijke aanpak leiden we hoogopgeleide professionals op.
                             Daarnaast werkt het Beth Underhill Instituut aan innovaties in de muziek- en sportbranches en blijft altijd op de hoogte van eventuele mutaties.
@@ -45,13 +45,18 @@ and open the template in the editor.
                         <div class="lijn">
                             <hr>
                         </div>
+
+                    <img src="images/geslaagd.jpg" alt="geslaagd">
+
+                    <div class="lijn">
+                        <hr>
                     </div>
 
-                    <div class = "blok_nieuws">
+
                         <h1>Headlines</h1>
                         <br>
-                        <p><a href="nieuwspagina.php">Extra jaar tussen havo en hbo</a></p>
-                    </div>
+                        <p class="nieuws"><a href="nieuwspagina.php">Extra jaar tussen havo en hbo</a></p>
+
 
                 </div>
 

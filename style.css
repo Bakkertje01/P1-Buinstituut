@@ -174,6 +174,18 @@ ul.header_ul li a:active {
     float: left;
     min-height: 700px;
 }
+.plaatje {
+
+}
+.blok_onder img{
+    width: 500px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 30px;
+}
+
 
 .lijn{
     width: 750px;
@@ -184,19 +196,7 @@ ul.header_ul li a:active {
 }
 /*Divjes blok tekst en blok nieuws toegevoegd
 door Rob en Kevin*/
-.blok_tekst {
-    width:925px;
-    height:500px;
-    background-color: rgba(0, 102, 204, 0.6);
-    float:left;
-}
-.blok_nieuws {
-    float:left;
-    width:925px;
-    height:200px;
-    background-color: rgba(0, 102, 204, 0.6);
-    text-align:center;
-}
+
 .blok_boven_sport {
     width: 925px;
     height: 75px;
@@ -275,7 +275,11 @@ p {
     margin-left: 5px;
     margin-top: 6px;
 }
-
+p.nieuws{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
 p.opendag {
     color: white;
     font-size: 18px;
