@@ -1,11 +1,4 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Ernst-Jan Bakker
- * Date: 28-3-2017
- * Time: 12:42
- */
-?>
+
 <div class="footer">
     <div class="footer_content">
 
@@ -44,15 +37,16 @@
                         href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:00000.1.06279&bannertypeclick=wu_simplewhite"
                         title="Hoogeveen, Nederland Weather Forecast" target="_blank"><img
                             src="http://weathersticker.wunderground.com/weathersticker/cgi-bin/banner/ban/wxBanner?bannertype=wu_simplewhite_metric&airportcode=EHGG&ForcedCity=Hoogeveen&ForcedState=Nederland&wmo=06279&language=NL"
-                            alt="Find more about Weather in Hoogeveen, NL" width="160"/></a><br><a
+                            alt="Find more about Weather in Hoogeveen, NL" width="160"/><br></a>
+                        <a
                         href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:00000.1.06279&bannertypeclick=wu_simplewhite"
                         title="Get latest Weather Forecast updates" style="font-family: sans-serif; font-size: 12px"
                         target="_blank">
+                </a>
             </span>
 
         </div>
 
     </div>
 
-</div>
-
+    </div>
