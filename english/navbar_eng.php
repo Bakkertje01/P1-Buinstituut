@@ -27,13 +27,13 @@
         <li>
             <a href="../index.php" target="_self">Dutch</a>
         </li>
-		<li>
-			<?php
-				if(isset($_SERVER['HTTP_REFERER'])) {
-					$url = htmlspecialchars($_SERVER['HTTP_REFERER']);
-					echo "<a href='$url'>Back</a>";
-				}
-			?>
-		</li>
+		<?php
+			if(isset($_SERVER['HTTP_REFERER'])) {
+				echo"<li>";
+				$url = htmlspecialchars($_SERVER['HTTP_REFERER']);
+				echo "<a href='$url'>Back</a>";
+				echo "</li>";
+			}
+		?>
     </ul>
 </div>
