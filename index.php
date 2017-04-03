@@ -42,7 +42,11 @@ and open the template in the editor.
                             Daarnaast beschikken wij over State of the art leeromgevingen.</p>
                         <br>
                         <p>Graag tot ziens op het Beth Underhill Instituut</p>
+                        <div class="lijn">
+                            <hr>
+                        </div>
                     </div>
+
                     <div class = "blok_nieuws">
                         <h1>Headlines</h1>
                         <br>
