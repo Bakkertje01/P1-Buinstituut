@@ -27,5 +27,13 @@
         <li>
             <a href="english/index_eng.php" target="_self">English</a>
         </li>
+		<li>
+			<?php
+				if(isset($_SERVER['HTTP_REFERER'])) {
+					$url = htmlspecialchars($_SERVER['HTTP_REFERER']);
+					echo "<a href='$url'>Terug</a>";
+				}
+			?>
+		</li>
     </ul>
 </div>
