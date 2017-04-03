@@ -1,9 +1,3 @@
-<!doctype html >
-<html>
-<head>
-    <title>navbar</title>
-</head>
-<body>
 <div class = "navbar">
     <ul class = "header_ul">
         <li>
@@ -37,5 +31,3 @@
     </ul>
 
 </div>
-</body>
-</html>
