@@ -31,7 +31,7 @@
                         Het is als afgestudeerde aan het BU instituut relatief makkelijk om werk te vinden in je vakgebied.
                         Wel is dit vaak parttime. De banen liggen niet voor het oprapen voor afgestudeerden van andere sportopleidingen.
                         Voor hen is het juist moeilijk om een baan te vinden die aansluit bij de opleiding. Voor beide groepen ligt het salaris aan de lage kant.</p>
-                    <p>
+
                     <h2>Hoe zijn deze sportieve opleidingen opgebouwd?</h2>
                     <ul>
                         <li>Een professionele begeleiding door een opgeleide leraar/coach</li>
@@ -45,7 +45,7 @@
                     <br>
                     <p><b>Raymond Blankestijn</b><br>
                     Directeur Beth Underhill Instituut</p>
-                </p>
+
 
 
             <a href = "Sportpageopendag.php">

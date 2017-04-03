@@ -27,7 +27,7 @@ and open the template in the editor.
                 <div class = "blok_boven"><h1>Leraar en coaching</h1>
                 </div>
 
-                <ul class = "blok_onder">
+                <div class = "blok_onder">
                     <p>Wanneer je kiest voor de opleiding Sport komen de volgende beroepstaken aan de orde:</p>
                     <h2>Lesgeven en coaching</h2>
                     <ul>
@@ -51,6 +51,7 @@ and open the template in the editor.
                         <li>Je helpt kinderen en jongeren een actieve, sportieve en gezonde leefstijl te ontwikkelen.</li>
                         <li>Je gebruikt daarbij modellen van gedragsverandering en gedragsbeïnvloeding.</li>
                         <li>Je doet onderzoek en geeft advies aan kinderen, jongeren, ouders en verzorgers.</li>
+                    </ul>
 
 
                </div>
