@@ -21,6 +21,7 @@
             <a href="https://www.twitter.com">
                 <div class="social_plaatje">
                     <img src="../images/twitter.png" alt="logo-header.png">
+                </div>
             </a>
         </div>
 
@@ -28,6 +29,7 @@
             <a href="contact_eng.php" target="_self">
                 <div class="social_plaatje">
                     <img src="../images/mail.png" alt="logo-header.png">
+                </div>
             </a>
         </div>
         <div class="rss">
@@ -45,7 +47,8 @@
                         alt="Find more about Weather in Hoogeveen, NL" width="160"/></a><br><a
                     href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:00000.1.06279&bannertypeclick=wu_simplewhite"
                     title="Get latest Weather Forecast updates" style="font-family: sans-serif; font-size: 12px"
-                    target="_blank"></span>
+                    target="_blank">
+            </span>
 
         </div>
 
