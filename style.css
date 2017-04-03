@@ -167,7 +167,21 @@ ul.header_ul li a:active {
     float: left;
     min-height: 700px;
 }
-
+/*Divjes blok tekst en blok nieuws toegevoegd
+door Rob en Kevin*/
+.blok_tekst {
+    width:925px;
+    height:500px;
+    background-color: rgba(0, 102, 204, 0.6);
+    float:left;
+}
+.blok_nieuws {
+    float:left;
+    width:925px;
+    height:200px;
+    background-color: rgba(0, 102, 204, 0.6);
+    text-align:center;
+}
 .blok_boven_sport {
     width: 925px;
     height: 75px;
@@ -175,8 +189,6 @@ ul.header_ul li a:active {
     background-color: rgba(0, 102, 204, 0.6);
     float: left;
 }
-
-
 
 .blok_boven_muziek {
     width: 925px;
