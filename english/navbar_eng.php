@@ -31,7 +31,7 @@
 			if(isset($_SERVER['HTTP_REFERER'])) {
 				echo"<li>";
 				$url = htmlspecialchars($_SERVER['HTTP_REFERER']);
-				echo "<a href='$url'><b><- Back</b></a>";
+				echo "<a href='$url'><b>&#60;&#45; Back</b></a>";
 				echo "</li>";
 			}
 		?>

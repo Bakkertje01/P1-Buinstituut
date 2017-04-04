@@ -24,7 +24,7 @@
 			if(isset($_SERVER['HTTP_REFERER'])) {
 				echo"<li>";
 				$url = htmlspecialchars($_SERVER['HTTP_REFERER']);
-				echo "<a href='$url'><b><- Terug</b></a>";
+				echo "<a href='$url'><b> &#60;&#45; Terug</b></a>";
 				echo "</li>";
 			}
 		?>
