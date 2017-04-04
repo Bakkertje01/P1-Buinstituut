@@ -40,9 +40,7 @@
                         href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:00000.1.06279&bannertypeclick=wu_simplewhite"
                         title="Hoogeveen, Nederland Weather Forecast" target="_blank"><img
                             src="http://weathersticker.wunderground.com/weathersticker/cgi-bin/banner/ban/wxBanner?bannertype=wu_simplewhite_metric&airportcode=EHGG&ForcedCity=Hoogeveen&ForcedState=Nederland&wmo=06279&language=NL"
-                            alt="Find more about Weather in Hoogeveen, NL" width="160"/><br>
-                </a>
-
+                            alt="Find more about Weather in Hoogeveen, NL" width="160"/>
                 </a>
             </span>
 
