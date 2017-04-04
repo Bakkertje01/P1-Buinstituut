@@ -67,16 +67,16 @@
     </form>
 
 	<?php
-		$Nfile = fopen("mail_info.txt", "w");
+
 
 		if (isset($_POST["submit"])) {
 			if (empty($naamsendErr || $achternaamSendErr || $emailSendErr || $emailComErr)) {
-				$Nfile = fopen("mail_info.txt", "wb");
+				$Nfile = fopen("mail_info.txt", "a+");
 //			$naamsend = $_POST["naam"]; //naam verzender
 //			$achternaamSend = $_POST["achternaam"]; //achernaam verzender
 //			$emailSend = $_POST["e-mail"];  //email verzender
 //			$emailCom = $_POST["comment"];
-				$fullInfo = "Name:" . " " . $naamsend . " " . "achternaam:" . " " . $achternaamSend . " " . "mail:" . " " . $emailSend . " " . "comments:" . " " . $emailCom; //stelt email op met info
+				$fullInfo = "Name:" . " " . $naamsend . " " . "achternaam:" . " " . $achternaamSend . " " . "mail:" . " " . $emailSend . " " . "comments:" . " " . $emailCom . "" . PHP_EOL; //stelt email op met info
 				fwrite($Nfile, $fullInfo);
 				fclose($Nfile);
 				//schrijft bestanden naar htdocs(de server)
