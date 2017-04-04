@@ -323,10 +323,10 @@ img.photoMedia {
 
 /*CONTACT*/
 .Cform {
-    height: 100%;
-    width: 280px;
+    height: 300px;
+    width: 350px;
     float: left;
-    margin-left: 80px;
+    margin-left: 20px;
     margin-top: 10px;
     background-color: orange;
     padding: 50px;
@@ -355,19 +355,6 @@ img.photoMedia {
     opacity: 0.9;
 }
 
-.contactinfoB {
-    height: 100px;
-    width: 300px;
-    float: left;
-    text-align: justify;
-    background-color: orange;
-    padding: 30px;
-    margin-left: 10px;
-    border-style: solid;
-    border-width: 1px;
-    box-shadow: -15px 10px 20px #000000;
-}
-
 textarea {
     width: 270px;
     float: left;
@@ -382,6 +369,7 @@ textarea {
     margin-top: 20px;
     margin-left: 20px;
     border: 1px solid black;
+    margin-bottom: 20px;
 }
 
 .adres_gegevens {
