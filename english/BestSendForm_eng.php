@@ -49,17 +49,17 @@ function test_input($data) {
 
 <div class="Cform">
     <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
-        Name*:<br><input type="text" name="naam" placeholder="Name" <?php if (isset($_POST['naam'])) echo 'value="'.$_POST['naam'].'"';?>>
+        Name:<br><input type="text" name="naam" placeholder="Name" <?php if (isset($_POST['naam'])) echo 'value="'.$_POST['naam'].'"';?>>
         <span class="error">* <?php echo $naamsendErr;?></span>
         <br>
-        Last Name*:<br><input type="text" name="achternaam" placeholder="Last Name" <?php if (isset($_POST['achternaam'])) echo 'value="'.$_POST['achternaam'].'"';?>>
+        Last Name:<br><input type="text" name="achternaam" placeholder="Last Name" <?php if (isset($_POST['achternaam'])) echo 'value="'.$_POST['achternaam'].'"';?>>
         <span class="error">* <?php echo $achternaamSendErr;?></span>
         <br>
-        e-mail*:<br><input type="email" name="e-mail" placeholder="Email" <?php if (isset($_POST['e-mail'])) echo 'value="'.$_POST['e-mail'].'"';?>>
+        e-mail:<br><input type="email" name="e-mail" placeholder="Email" <?php if (isset($_POST['e-mail'])) echo 'value="'.$_POST['e-mail'].'"';?>>
         <span class="error">* <?php echo $emailSendErr;?></span>
         <br>
-        Comment*:<br><textarea title="comment" id="comment" name="comment" rows=4 cols=8><?php if (isset($_POST['comment'])) echo $_POST['comment'];?></textarea>
-        <span class="error"> <?php echo $emailComErr;?></span>
+        Comment:<br><textarea title="comment" id="comment" name="comment" rows=4 cols=8><?php if (isset($_POST['comment'])) echo $_POST['comment'];?></textarea>
+        <span class="error">* <?php echo $emailComErr;?></span>
         <br>
         <br>
         <br>
