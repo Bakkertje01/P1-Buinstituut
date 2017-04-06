@@ -28,7 +28,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     if (empty($_POST["comment"])) {
-        $emailComErr = "Opmerking is required";
+        $emailComErr = "Comment is required";
     } else {
         $emailCom = test_input($_POST["comment"]);
     }
